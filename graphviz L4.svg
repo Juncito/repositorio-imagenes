@@ -1,0 +1,1338 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="5650pt" height="1201pt" viewBox="0.00 0.00 5649.57 1201.18">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1197.18)">
+<title>MapaConceptual</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-1197.18 5645.57,-1197.18 5645.57,4 -4,4"/>
+<!-- BAE01 -->
+<g id="node1" class="node">
+<title>BAE01</title>
+<polygon fill="#e6e6fa" stroke="black" points="0,-216.5 0,-242.5 387.5,-242.5 387.5,-216.5 0,-216.5"/>
+<text text-anchor="middle" x="31.35" y="-225" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BAE01</text>
+<polyline fill="none" stroke="black" points="62.7,-216.5 62.7,-242.5"/>
+<text text-anchor="middle" x="167.4" y="-225" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Actividades Extracurriculares</text>
+<polyline fill="none" stroke="black" points="272.1,-216.5 272.1,-242.5"/>
+<text text-anchor="middle" x="292.61" y="-225" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">11°</text>
+<polyline fill="none" stroke="black" points="313.12,-216.5 313.12,-242.5"/>
+<text text-anchor="middle" x="350.31" y="-225" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">80 horas</text>
+</g>
+<!-- BFI01 -->
+<g id="node2" class="node">
+<title>BFI01</title>
+<polygon fill="#bdecb6" stroke="black" points="96.31,-847.5 96.31,-899.5 291.19,-899.5 291.19,-847.5 96.31,-847.5"/>
+<text text-anchor="middle" x="124.32" y="-869" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BFI01</text>
+<polyline fill="none" stroke="black" points="152.33,-847.5 152.33,-899.5"/>
+<text text-anchor="middle" x="192.84" y="-882" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Física 1</text>
+<polyline fill="none" stroke="black" points="152.33,-873.5 233.35,-873.5"/>
+<text text-anchor="middle" x="192.84" y="-856" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">5 créditos</text>
+<polyline fill="none" stroke="black" points="233.35,-847.5 233.35,-899.5"/>
+<text text-anchor="middle" x="249.69" y="-869" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">1°</text>
+<polyline fill="none" stroke="black" points="266.03,-847.5 266.03,-899.5"/>
+<text text-anchor="middle" x="278.61" y="-869" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">F</text>
+</g>
+<!-- BFI03 -->
+<g id="node15" class="node">
+<title>BFI03</title>
+<polygon fill="#bdecb6" stroke="black" points="980.12,-847.5 980.12,-899.5 1452.65,-899.5 1452.65,-847.5 980.12,-847.5"/>
+<text text-anchor="middle" x="1008.13" y="-869" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BFI03</text>
+<polyline fill="none" stroke="black" points="1036.14,-847.5 1036.14,-899.5"/>
+<text text-anchor="middle" x="1214.22" y="-882" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Fundamentos de Electricidad, Magnetismo y Óptica</text>
+<polyline fill="none" stroke="black" points="1036.14,-873.5 1392.3,-873.5"/>
+<text text-anchor="middle" x="1214.22" y="-856" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">5 créditos</text>
+<polyline fill="none" stroke="black" points="1392.3,-847.5 1392.3,-899.5"/>
+<text text-anchor="middle" x="1408.64" y="-869" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3°</text>
+<polyline fill="none" stroke="black" points="1424.98,-847.5 1424.98,-899.5"/>
+<text text-anchor="middle" x="1438.81" y="-869" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">G</text>
+</g>
+<!-- BFI01&#45;&gt;BFI03 -->
+<g id="edge5" class="edge">
+<title>BFI01-&gt;BFI03</title>
+<path fill="none" stroke="black" d="M291.69,-873.5C445.77,-873.5 751.33,-873.5 968.79,-873.5"/>
+<polygon fill="black" stroke="black" points="978.51,-873.5 968.51,-878 974.72,-873.5 968.51,-873.5 968.51,-873.5 968.51,-873.5 974.72,-873.5 968.51,-869 978.51,-873.5"/>
+</g>
+<!-- BIC01 -->
+<g id="node3" class="node">
+<title>BIC01</title>
+<polygon fill="#b2ffff" stroke="black" points="26.68,-272.5 26.68,-324.5 360.81,-324.5 360.81,-272.5 26.68,-272.5"/>
+<text text-anchor="middle" x="55.53" y="-294" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BIC01</text>
+<polyline fill="none" stroke="black" points="84.37,-272.5 84.37,-324.5"/>
+<text text-anchor="middle" x="193.67" y="-307" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Introducción a la Computación</text>
+<polyline fill="none" stroke="black" points="84.37,-298.5 302.97,-298.5"/>
+<text text-anchor="middle" x="193.67" y="-281" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">2 créditos</text>
+<polyline fill="none" stroke="black" points="302.97,-272.5 302.97,-324.5"/>
+<text text-anchor="middle" x="319.31" y="-294" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">1°</text>
+<polyline fill="none" stroke="black" points="335.65,-272.5 335.65,-324.5"/>
+<text text-anchor="middle" x="348.23" y="-294" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">F</text>
+</g>
+<!-- CBS02 -->
+<g id="node13" class="node">
+<title>CBS02</title>
+<polygon fill="#b2ffff" stroke="black" points="540.93,-272.5 540.93,-324.5 826.68,-324.5 826.68,-272.5 540.93,-272.5"/>
+<text text-anchor="middle" x="572.69" y="-294" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBS02</text>
+<polyline fill="none" stroke="black" points="604.46,-272.5 604.46,-324.5"/>
+<text text-anchor="middle" x="685.81" y="-307" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Sistemas Operativos I</text>
+<polyline fill="none" stroke="black" points="604.46,-298.5 767.17,-298.5"/>
+<text text-anchor="middle" x="685.81" y="-281" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="black" points="767.17,-272.5 767.17,-324.5"/>
+<text text-anchor="middle" x="783.51" y="-294" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">2°</text>
+<polyline fill="none" stroke="black" points="799.85,-272.5 799.85,-324.5"/>
+<text text-anchor="middle" x="813.27" y="-294" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- BIC01&#45;&gt;CBS02 -->
+<g id="edge4" class="edge">
+<title>BIC01-&gt;CBS02</title>
+<path fill="none" stroke="black" d="M361,-298.5C415.66,-298.5 476.14,-298.5 529.77,-298.5"/>
+<polygon fill="black" stroke="black" points="539.53,-298.5 529.53,-303 535.75,-298.5 529.53,-298.5 529.53,-298.5 529.53,-298.5 535.75,-298.5 529.53,-294 539.53,-298.5"/>
+</g>
+<!-- BMA01 -->
+<g id="node4" class="node">
+<title>BMA01</title>
+<polygon fill="#bdecb6" stroke="black" points="60.46,-724.5 60.46,-776.5 327.04,-776.5 327.04,-724.5 60.46,-724.5"/>
+<text text-anchor="middle" x="93.05" y="-746" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BMA01</text>
+<polyline fill="none" stroke="black" points="125.65,-724.5 125.65,-776.5"/>
+<text text-anchor="middle" x="196.17" y="-759" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Cálculo Diferencial</text>
+<polyline fill="none" stroke="black" points="125.65,-750.5 266.69,-750.5"/>
+<text text-anchor="middle" x="196.17" y="-733" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">5 créditos</text>
+<polyline fill="none" stroke="black" points="266.69,-724.5 266.69,-776.5"/>
+<text text-anchor="middle" x="283.03" y="-746" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">1°</text>
+<polyline fill="none" stroke="black" points="299.37,-724.5 299.37,-776.5"/>
+<text text-anchor="middle" x="313.2" y="-746" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">G</text>
+</g>
+<!-- BMA02 -->
+<g id="node9" class="node">
+<title>BMA02</title>
+<polygon fill="#bdecb6" stroke="black" points="560.93,-724.5 560.93,-776.5 806.68,-776.5 806.68,-724.5 560.93,-724.5"/>
+<text text-anchor="middle" x="593.53" y="-746" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BMA02</text>
+<polyline fill="none" stroke="black" points="626.12,-724.5 626.12,-776.5"/>
+<text text-anchor="middle" x="686.23" y="-759" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Cálculo Integral</text>
+<polyline fill="none" stroke="black" points="626.12,-750.5 746.34,-750.5"/>
+<text text-anchor="middle" x="686.23" y="-733" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">5 créditos</text>
+<polyline fill="none" stroke="black" points="746.34,-724.5 746.34,-776.5"/>
+<text text-anchor="middle" x="762.68" y="-746" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">2°</text>
+<polyline fill="none" stroke="black" points="779.01,-724.5 779.01,-776.5"/>
+<text text-anchor="middle" x="792.85" y="-746" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">G</text>
+</g>
+<!-- BMA01&#45;&gt;BMA02 -->
+<g id="edge1" class="edge">
+<title>BMA01-&gt;BMA02</title>
+<path fill="none" stroke="black" d="M327.47,-750.5C396.46,-750.5 480.56,-750.5 549.62,-750.5"/>
+<polygon fill="black" stroke="black" points="559.36,-750.5 549.36,-755 555.58,-750.5 549.36,-750.5 549.36,-750.5 549.36,-750.5 555.58,-750.5 549.36,-746 559.36,-750.5"/>
+</g>
+<!-- BMA03 -->
+<g id="node5" class="node">
+<title>BMA03</title>
+<polygon fill="#bdecb6" stroke="black" points="75.86,-612.5 75.86,-664.5 311.63,-664.5 311.63,-612.5 75.86,-612.5"/>
+<text text-anchor="middle" x="108.46" y="-634" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BMA03</text>
+<polyline fill="none" stroke="black" points="141.05,-612.5 141.05,-664.5"/>
+<text text-anchor="middle" x="196.17" y="-647" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Álgebra Lineal</text>
+<polyline fill="none" stroke="black" points="141.05,-638.5 251.29,-638.5"/>
+<text text-anchor="middle" x="196.17" y="-621" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">4 créditos</text>
+<polyline fill="none" stroke="black" points="251.29,-612.5 251.29,-664.5"/>
+<text text-anchor="middle" x="267.63" y="-634" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">1°</text>
+<polyline fill="none" stroke="black" points="283.96,-612.5 283.96,-664.5"/>
+<text text-anchor="middle" x="297.8" y="-634" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">G</text>
+</g>
+<!-- BMA10 -->
+<g id="node17" class="node">
+<title>BMA10</title>
+<polygon fill="#bdecb6" stroke="black" points="1049.31,-612.5 1049.31,-664.5 1383.45,-664.5 1383.45,-612.5 1049.31,-612.5"/>
+<text text-anchor="middle" x="1081.91" y="-634" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BMA10</text>
+<polyline fill="none" stroke="black" points="1114.5,-612.5 1114.5,-664.5"/>
+<text text-anchor="middle" x="1218.8" y="-647" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Probabilidades y Estadística</text>
+<polyline fill="none" stroke="black" points="1114.5,-638.5 1323.11,-638.5"/>
+<text text-anchor="middle" x="1218.8" y="-621" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="black" points="1323.11,-612.5 1323.11,-664.5"/>
+<text text-anchor="middle" x="1339.44" y="-634" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3°</text>
+<polyline fill="none" stroke="black" points="1355.78,-612.5 1355.78,-664.5"/>
+<text text-anchor="middle" x="1369.62" y="-634" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">G</text>
+</g>
+<!-- BMA03&#45;&gt;BMA10 -->
+<g id="edge9" class="edge">
+<title>BMA03-&gt;BMA10</title>
+<path fill="none" stroke="black" d="M311.83,-638.5C489.81,-638.5 829.72,-638.5 1038.11,-638.5"/>
+<polygon fill="black" stroke="black" points="1047.94,-638.5 1037.94,-643 1044.16,-638.5 1037.94,-638.5 1037.94,-638.5 1037.94,-638.5 1044.16,-638.5 1037.94,-634 1047.94,-638.5"/>
+</g>
+<!-- BRN01 -->
+<g id="node6" class="node">
+<title>BRN01</title>
+<polygon fill="#e6e6fa" stroke="black" points="62.94,-929.5 62.94,-981.5 324.55,-981.5 324.55,-929.5 62.94,-929.5"/>
+<text text-anchor="middle" x="95.12" y="-951" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BRN01</text>
+<polyline fill="none" stroke="black" points="127.3,-929.5 127.3,-981.5"/>
+<text text-anchor="middle" x="196.17" y="-964" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Realidad Nacional</text>
+<polyline fill="none" stroke="black" points="127.3,-955.5 265.04,-955.5"/>
+<text text-anchor="middle" x="196.17" y="-938" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="black" points="265.04,-929.5 265.04,-981.5"/>
+<text text-anchor="middle" x="281.38" y="-951" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">1°</text>
+<polyline fill="none" stroke="black" points="297.72,-929.5 297.72,-981.5"/>
+<text text-anchor="middle" x="311.14" y="-951" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- CBS01 -->
+<g id="node7" class="node">
+<title>CBS01</title>
+<polygon fill="#b2ffff" stroke="black" points="19.17,-417.5 19.17,-469.5 368.32,-469.5 368.32,-417.5 19.17,-417.5"/>
+<text text-anchor="middle" x="50.94" y="-439" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBS01</text>
+<polyline fill="none" stroke="black" points="82.7,-417.5 82.7,-469.5"/>
+<text text-anchor="middle" x="195.76" y="-452" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Fundamentos de Programación</text>
+<polyline fill="none" stroke="black" points="82.7,-443.5 308.81,-443.5"/>
+<text text-anchor="middle" x="195.76" y="-426" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="black" points="308.81,-417.5 308.81,-469.5"/>
+<text text-anchor="middle" x="325.15" y="-439" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">1°</text>
+<polyline fill="none" stroke="black" points="341.49,-417.5 341.49,-469.5"/>
+<text text-anchor="middle" x="354.91" y="-439" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- BMA09 -->
+<g id="node10" class="node">
+<title>BMA09</title>
+<polygon fill="#b2ffff" stroke="black" points="495.5,-450.5 495.5,-502.5 872.12,-502.5 872.12,-450.5 495.5,-450.5"/>
+<text text-anchor="middle" x="528.09" y="-472" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BMA09</text>
+<polyline fill="none" stroke="black" points="560.69,-450.5 560.69,-502.5"/>
+<text text-anchor="middle" x="686.23" y="-485" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Algoritmos y Estructuras de Datos I</text>
+<polyline fill="none" stroke="black" points="560.69,-476.5 811.77,-476.5"/>
+<text text-anchor="middle" x="686.23" y="-459" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="black" points="811.77,-450.5 811.77,-502.5"/>
+<text text-anchor="middle" x="828.11" y="-472" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">2°</text>
+<polyline fill="none" stroke="black" points="844.45,-450.5 844.45,-502.5"/>
+<text text-anchor="middle" x="858.28" y="-472" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">G</text>
+</g>
+<!-- CBS01&#45;&gt;BMA09 -->
+<g id="edge2" class="edge">
+<title>CBS01-&gt;BMA09</title>
+<path fill="none" stroke="black" d="M368.54,-455.25C406.09,-457.79 446.06,-460.49 484.47,-463.09"/>
+<polygon fill="black" stroke="black" points="494.05,-463.74 483.77,-467.55 490.27,-463.48 484.07,-463.06 484.07,-463.06 484.07,-463.06 490.27,-463.48 484.37,-458.57 494.05,-463.74"/>
+</g>
+<!-- CBS01&#45;&gt;CBS02 -->
+<g id="edge3" class="edge">
+<title>CBS01-&gt;CBS02</title>
+<path fill="none" stroke="black" d="M263.6,-417.1C324.09,-394.53 414.79,-362.2 495.5,-339.5 510.34,-335.33 525.94,-331.32 541.54,-327.56"/>
+<polygon fill="black" stroke="black" points="551.15,-325.27 542.46,-331.96 547.47,-326.15 541.42,-327.59 541.42,-327.59 541.42,-327.59 547.47,-326.15 540.38,-323.21 551.15,-325.27"/>
+</g>
+<!-- CBN01 -->
+<g id="node8" class="node">
+<title>CBN01</title>
+<polygon fill="#e74c3c" stroke="black" points="556.76,-354.5 556.76,-406.5 810.85,-406.5 810.85,-354.5 556.76,-354.5"/>
+<text text-anchor="middle" x="588.94" y="-376" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">CBN01</text>
+<polyline fill="none" stroke="black" points="621.11,-354.5 621.11,-406.5"/>
+<text text-anchor="middle" x="687.06" y="-389" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">Redes de Datos I</text>
+<polyline fill="none" stroke="black" points="621.11,-380.5 753.01,-380.5"/>
+<text text-anchor="middle" x="687.06" y="-363" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">4 créditos</text>
+<polyline fill="none" stroke="black" points="753.01,-354.5 753.01,-406.5"/>
+<text text-anchor="middle" x="769.35" y="-376" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">2°</text>
+<polyline fill="none" stroke="black" points="785.69,-354.5 785.69,-406.5"/>
+<text text-anchor="middle" x="798.27" y="-376" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">F</text>
+</g>
+<!-- CBN02 -->
+<g id="node19" class="node">
+<title>CBN02</title>
+<polygon fill="#e74c3c" stroke="black" points="1086.42,-349.5 1086.42,-401.5 1346.35,-401.5 1346.35,-349.5 1086.42,-349.5"/>
+<text text-anchor="middle" x="1118.59" y="-371" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">CBN02</text>
+<polyline fill="none" stroke="black" points="1150.77,-349.5 1150.77,-401.5"/>
+<text text-anchor="middle" x="1218.8" y="-384" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">Redes de Datos II</text>
+<polyline fill="none" stroke="black" points="1150.77,-375.5 1286.84,-375.5"/>
+<text text-anchor="middle" x="1218.8" y="-358" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">3 créditos</text>
+<polyline fill="none" stroke="black" points="1286.84,-349.5 1286.84,-401.5"/>
+<text text-anchor="middle" x="1303.17" y="-371" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">3°</text>
+<polyline fill="none" stroke="black" points="1319.51,-349.5 1319.51,-401.5"/>
+<text text-anchor="middle" x="1332.93" y="-371" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">D</text>
+</g>
+<!-- CBN01&#45;&gt;CBN02 -->
+<g id="edge11" class="edge">
+<title>CBN01-&gt;CBN02</title>
+<path fill="none" stroke="black" d="M811.22,-379.31C890.63,-378.56 993.17,-377.59 1075.09,-376.82"/>
+<polygon fill="black" stroke="black" points="1085.03,-376.73 1075.08,-381.32 1081.25,-376.76 1075.03,-376.82 1075.03,-376.82 1075.03,-376.82 1081.25,-376.76 1074.99,-372.32 1085.03,-376.73"/>
+</g>
+<!-- BMA02&#45;&gt;BFI03 -->
+<g id="edge6" class="edge">
+<title>BMA02-&gt;BFI03</title>
+<path fill="none" stroke="black" d="M792.69,-776.94C848.57,-790.51 917.95,-807.16 980.12,-821.5 1013.31,-829.16 1049.19,-837.21 1082.69,-844.62"/>
+<polygon fill="black" stroke="black" points="1092.29,-846.74 1081.56,-848.98 1088.6,-845.93 1082.53,-844.58 1082.53,-844.58 1082.53,-844.58 1088.6,-845.93 1083.5,-840.19 1092.29,-846.74"/>
+</g>
+<!-- BMA05 -->
+<g id="node16" class="node">
+<title>BMA05</title>
+<polygon fill="#bdecb6" stroke="black" points="1061.4,-754.5 1061.4,-806.5 1371.36,-806.5 1371.36,-754.5 1061.4,-754.5"/>
+<text text-anchor="middle" x="1094" y="-776" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BMA05</text>
+<polyline fill="none" stroke="black" points="1126.59,-754.5 1126.59,-806.5"/>
+<text text-anchor="middle" x="1218.8" y="-789" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Ecuaciones Diferenciales</text>
+<polyline fill="none" stroke="black" points="1126.59,-780.5 1311.01,-780.5"/>
+<text text-anchor="middle" x="1218.8" y="-763" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">5 créditos</text>
+<polyline fill="none" stroke="black" points="1311.01,-754.5 1311.01,-806.5"/>
+<text text-anchor="middle" x="1327.35" y="-776" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3°</text>
+<polyline fill="none" stroke="black" points="1343.69,-754.5 1343.69,-806.5"/>
+<text text-anchor="middle" x="1357.52" y="-776" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">G</text>
+</g>
+<!-- BMA02&#45;&gt;BMA05 -->
+<g id="edge7" class="edge">
+<title>BMA02-&gt;BMA05</title>
+<path fill="none" stroke="black" d="M806.86,-757.4C879.05,-761.48 971.44,-766.71 1050.09,-771.15"/>
+<polygon fill="black" stroke="black" points="1059.88,-771.71 1049.64,-775.64 1056.1,-771.49 1049.9,-771.14 1049.9,-771.14 1049.9,-771.14 1056.1,-771.49 1050.15,-766.65 1059.88,-771.71"/>
+</g>
+<!-- BMA02&#45;&gt;BMA10 -->
+<g id="edge8" class="edge">
+<title>BMA02-&gt;BMA10</title>
+<path fill="none" stroke="black" d="M806.9,-724.31C860.1,-712.94 923.18,-699.5 980.12,-687.5 1011.48,-680.89 1045.2,-673.83 1077.04,-667.2"/>
+<polygon fill="black" stroke="black" points="1086.57,-665.21 1077.7,-671.66 1082.87,-665.98 1076.78,-667.25 1076.78,-667.25 1076.78,-667.25 1082.87,-665.98 1075.86,-662.85 1086.57,-665.21"/>
+</g>
+<!-- BMA18 -->
+<g id="node22" class="node">
+<title>BMA18</title>
+<polygon fill="#bdecb6" stroke="black" points="1777.04,-535.5 1777.04,-587.5 2051.94,-587.5 2051.94,-535.5 1777.04,-535.5"/>
+<text text-anchor="middle" x="1809.63" y="-557" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BMA18</text>
+<polyline fill="none" stroke="black" points="1842.23,-535.5 1842.23,-587.5"/>
+<text text-anchor="middle" x="1916.91" y="-570" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Métodos Numéricos</text>
+<polyline fill="none" stroke="black" points="1842.23,-561.5 1991.6,-561.5"/>
+<text text-anchor="middle" x="1916.91" y="-544" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="black" points="1991.6,-535.5 1991.6,-587.5"/>
+<text text-anchor="middle" x="2007.93" y="-557" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">4°</text>
+<polyline fill="none" stroke="black" points="2024.27,-535.5 2024.27,-587.5"/>
+<text text-anchor="middle" x="2038.11" y="-557" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">G</text>
+</g>
+<!-- BMA02&#45;&gt;BMA18 -->
+<g id="edge15" class="edge">
+<title>BMA02-&gt;BMA18</title>
+<path fill="none" stroke="black" d="M806.94,-745.18C959.09,-737.19 1226.58,-718.64 1452.65,-679.5 1580.04,-657.44 1723.97,-618.23 1816.56,-591.1"/>
+<polygon fill="black" stroke="black" points="1826.15,-588.28 1817.82,-595.42 1822.52,-589.35 1816.55,-591.1 1816.55,-591.1 1816.55,-591.1 1822.52,-589.35 1815.28,-586.79 1826.15,-588.28"/>
+</g>
+<!-- BMA15 -->
+<g id="node18" class="node">
+<title>BMA15</title>
+<polygon fill="#b2ffff" stroke="black" points="1029.72,-450.5 1029.72,-502.5 1403.04,-502.5 1403.04,-450.5 1029.72,-450.5"/>
+<text text-anchor="middle" x="1062.32" y="-472" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BMA15</text>
+<polyline fill="none" stroke="black" points="1094.91,-450.5 1094.91,-502.5"/>
+<text text-anchor="middle" x="1218.8" y="-485" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Programación Orientada a Objetos</text>
+<polyline fill="none" stroke="black" points="1094.91,-476.5 1342.69,-476.5"/>
+<text text-anchor="middle" x="1218.8" y="-459" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="black" points="1342.69,-450.5 1342.69,-502.5"/>
+<text text-anchor="middle" x="1359.03" y="-472" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3°</text>
+<polyline fill="none" stroke="black" points="1375.37,-450.5 1375.37,-502.5"/>
+<text text-anchor="middle" x="1389.21" y="-472" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">G</text>
+</g>
+<!-- BMA09&#45;&gt;BMA15 -->
+<g id="edge10" class="edge">
+<title>BMA09-&gt;BMA15</title>
+<path fill="none" stroke="black" d="M872.61,-476.5C919.91,-476.5 970.8,-476.5 1018.52,-476.5"/>
+<polygon fill="black" stroke="black" points="1028.39,-476.5 1018.39,-481 1024.61,-476.5 1018.39,-476.5 1018.39,-476.5 1018.39,-476.5 1024.61,-476.5 1018.39,-472 1028.39,-476.5"/>
+</g>
+<!-- BMA09&#45;&gt;BMA18 -->
+<g id="edge16" class="edge">
+<title>BMA09-&gt;BMA18</title>
+<path fill="none" stroke="black" d="M856.27,-502.99C896.8,-508.51 939.91,-513.77 980.12,-517.5 1256.94,-543.19 1581.41,-554.2 1765.69,-558.68"/>
+<polygon fill="black" stroke="black" points="1775.58,-558.91 1765.48,-563.17 1771.8,-558.82 1765.59,-558.67 1765.59,-558.67 1765.59,-558.67 1771.8,-558.82 1765.7,-554.17 1775.58,-558.91"/>
+</g>
+<!-- BQU01 -->
+<g id="node11" class="node">
+<title>BQU01</title>
+<polygon fill="#bdecb6" stroke="black" points="580.12,-918.5 580.12,-970.5 787.5,-970.5 787.5,-918.5 580.12,-918.5"/>
+<text text-anchor="middle" x="612.71" y="-940" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BQU01</text>
+<polyline fill="none" stroke="black" points="645.31,-918.5 645.31,-970.5"/>
+<text text-anchor="middle" x="687.48" y="-953" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Química I</text>
+<polyline fill="none" stroke="black" points="645.31,-944.5 729.66,-944.5"/>
+<text text-anchor="middle" x="687.48" y="-927" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">5 créditos</text>
+<polyline fill="none" stroke="black" points="729.66,-918.5 729.66,-970.5"/>
+<text text-anchor="middle" x="745.99" y="-940" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">2°</text>
+<polyline fill="none" stroke="black" points="762.33,-918.5 762.33,-970.5"/>
+<text text-anchor="middle" x="774.91" y="-940" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">F</text>
+</g>
+<!-- BCR01 -->
+<g id="node12" class="node">
+<title>BCR01</title>
+<polygon fill="#e6e6fa" stroke="black" points="523,-1000.5 523,-1052.5 844.61,-1052.5 844.61,-1000.5 523,-1000.5"/>
+<text text-anchor="middle" x="555.18" y="-1022" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BCR01</text>
+<polyline fill="none" stroke="black" points="587.36,-1000.5 587.36,-1052.5"/>
+<text text-anchor="middle" x="686.23" y="-1035" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Redacción y Comunicación</text>
+<polyline fill="none" stroke="black" points="587.36,-1026.5 785.1,-1026.5"/>
+<text text-anchor="middle" x="686.23" y="-1009" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">2 créditos</text>
+<polyline fill="none" stroke="black" points="785.1,-1000.5 785.1,-1052.5"/>
+<text text-anchor="middle" x="801.44" y="-1022" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">2°</text>
+<polyline fill="none" stroke="black" points="817.78,-1000.5 817.78,-1052.5"/>
+<text text-anchor="middle" x="831.19" y="-1022" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- CBS03 -->
+<g id="node20" class="node">
+<title>CBS03</title>
+<polygon fill="#b2ffff" stroke="black" points="1770.36,-272.5 1770.36,-324.5 2058.62,-324.5 2058.62,-272.5 1770.36,-272.5"/>
+<text text-anchor="middle" x="1802.13" y="-294" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBS03</text>
+<polyline fill="none" stroke="black" points="1833.89,-272.5 1833.89,-324.5"/>
+<text text-anchor="middle" x="1917.33" y="-307" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Sistemas Operativos II</text>
+<polyline fill="none" stroke="black" points="1833.89,-298.5 2000.78,-298.5"/>
+<text text-anchor="middle" x="1917.33" y="-281" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">4 créditos</text>
+<polyline fill="none" stroke="black" points="2000.78,-272.5 2000.78,-324.5"/>
+<text text-anchor="middle" x="2017.12" y="-294" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">4°</text>
+<polyline fill="none" stroke="black" points="2033.45,-272.5 2033.45,-324.5"/>
+<text text-anchor="middle" x="2046.04" y="-294" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">F</text>
+</g>
+<!-- CBS02&#45;&gt;CBS03 -->
+<g id="edge13" class="edge">
+<title>CBS02-&gt;CBS03</title>
+<path fill="none" stroke="black" d="M826.95,-298.5C1059.47,-298.5 1519.25,-298.5 1759.34,-298.5"/>
+<polygon fill="black" stroke="black" points="1769.04,-298.5 1759.04,-303 1765.25,-298.5 1759.04,-298.5 1759.04,-298.5 1759.04,-298.5 1765.25,-298.5 1759.04,-294 1769.04,-298.5"/>
+</g>
+<!-- BEG01 -->
+<g id="node14" class="node">
+<title>BEG01</title>
+<polygon fill="#e6e6fa" stroke="black" points="1086.83,-929.5 1086.83,-981.5 1345.93,-981.5 1345.93,-929.5 1086.83,-929.5"/>
+<text text-anchor="middle" x="1119.01" y="-951" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BEG01</text>
+<polyline fill="none" stroke="black" points="1151.19,-929.5 1151.19,-981.5"/>
+<text text-anchor="middle" x="1223.81" y="-964" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Economía General</text>
+<polyline fill="none" stroke="black" points="1151.19,-955.5 1296.43,-955.5"/>
+<text text-anchor="middle" x="1223.81" y="-938" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="black" points="1296.43,-929.5 1296.43,-981.5"/>
+<text text-anchor="middle" x="1308.6" y="-951" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3</text>
+<polyline fill="none" stroke="black" points="1320.77,-929.5 1320.77,-981.5"/>
+<text text-anchor="middle" x="1333.35" y="-951" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">F</text>
+</g>
+<!-- EE320 -->
+<g id="node23" class="node">
+<title>EE320</title>
+<polygon fill="#ffffc5" stroke="black" points="1779.12,-847.5 1779.12,-899.5 2049.86,-899.5 2049.86,-847.5 1779.12,-847.5"/>
+<text text-anchor="middle" x="1809.64" y="-869" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">EE320</text>
+<polyline fill="none" stroke="black" points="1840.16,-847.5 1840.16,-899.5"/>
+<text text-anchor="middle" x="1916.09" y="-882" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Circuitos Eléctricos I</text>
+<polyline fill="none" stroke="black" points="1840.16,-873.5 1992.02,-873.5"/>
+<text text-anchor="middle" x="1916.09" y="-856" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">5 créditos</text>
+<polyline fill="none" stroke="black" points="1992.02,-847.5 1992.02,-899.5"/>
+<text text-anchor="middle" x="2008.36" y="-869" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">4°</text>
+<polyline fill="none" stroke="black" points="2024.69,-847.5 2024.69,-899.5"/>
+<text text-anchor="middle" x="2037.28" y="-869" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">F</text>
+</g>
+<!-- BFI03&#45;&gt;EE320 -->
+<g id="edge17" class="edge">
+<title>BFI03-&gt;EE320</title>
+<path fill="none" stroke="black" d="M1453.05,-873.5C1557.38,-873.5 1676.79,-873.5 1767.87,-873.5"/>
+<polygon fill="black" stroke="black" points="1777.61,-873.5 1767.61,-878 1773.83,-873.5 1767.61,-873.5 1767.61,-873.5 1767.61,-873.5 1773.83,-873.5 1767.61,-869 1777.61,-873.5"/>
+</g>
+<!-- EE522 -->
+<g id="node30" class="node">
+<title>EE522</title>
+<polygon fill="#bdecb6" stroke="black" points="2479.72,-945.5 2479.72,-997.5 2751.31,-997.5 2751.31,-945.5 2479.72,-945.5"/>
+<text text-anchor="middle" x="2510.23" y="-967" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">EE522</text>
+<polyline fill="none" stroke="black" points="2540.75,-945.5 2540.75,-997.5"/>
+<text text-anchor="middle" x="2617.11" y="-980" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Electromagnetismo I</text>
+<polyline fill="none" stroke="black" points="2540.75,-971.5 2693.47,-971.5"/>
+<text text-anchor="middle" x="2617.11" y="-954" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">4 créditos</text>
+<polyline fill="none" stroke="black" points="2693.47,-945.5 2693.47,-997.5"/>
+<text text-anchor="middle" x="2709.81" y="-967" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">5°</text>
+<polyline fill="none" stroke="black" points="2726.15,-945.5 2726.15,-997.5"/>
+<text text-anchor="middle" x="2738.73" y="-967" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">F</text>
+</g>
+<!-- BFI03&#45;&gt;EE522 -->
+<g id="edge24" class="edge">
+<title>BFI03-&gt;EE522</title>
+<path fill="none" stroke="black" d="M1420.45,-899.96C1466.49,-905.35 1515.2,-910.56 1560.65,-914.5 1884.19,-942.54 2264.88,-959.08 2468.51,-966.6"/>
+<polygon fill="black" stroke="black" points="2478.35,-966.96 2468.19,-971.09 2474.57,-966.82 2468.36,-966.59 2468.36,-966.59 2468.36,-966.59 2474.57,-966.82 2468.52,-962.09 2478.35,-966.96"/>
+</g>
+<!-- BMA07 -->
+<g id="node21" class="node">
+<title>BMA07</title>
+<polygon fill="#bdecb6" stroke="black" points="1787.45,-765.5 1787.45,-817.5 2041.53,-817.5 2041.53,-765.5 1787.45,-765.5"/>
+<text text-anchor="middle" x="1820.05" y="-787" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BMA07</text>
+<polyline fill="none" stroke="black" points="1852.64,-765.5 1852.64,-817.5"/>
+<text text-anchor="middle" x="1916.91" y="-800" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Cálculo Vectorial</text>
+<polyline fill="none" stroke="black" points="1852.64,-791.5 1981.18,-791.5"/>
+<text text-anchor="middle" x="1916.91" y="-774" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">4 créditos</text>
+<polyline fill="none" stroke="black" points="1981.18,-765.5 1981.18,-817.5"/>
+<text text-anchor="middle" x="1997.52" y="-787" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">4°</text>
+<polyline fill="none" stroke="black" points="2013.86,-765.5 2013.86,-817.5"/>
+<text text-anchor="middle" x="2027.7" y="-787" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">G</text>
+</g>
+<!-- BMA05&#45;&gt;BMA07 -->
+<g id="edge14" class="edge">
+<title>BMA05-&gt;BMA07</title>
+<path fill="none" stroke="black" d="M1371.44,-782.93C1492.48,-784.85 1659.51,-787.49 1776.05,-789.33"/>
+<polygon fill="black" stroke="black" points="1785.95,-789.48 1775.88,-793.83 1782.17,-789.42 1775.95,-789.33 1775.95,-789.33 1775.95,-789.33 1782.17,-789.42 1776.03,-784.83 1785.95,-789.48"/>
+</g>
+<!-- EE410 -->
+<g id="node24" class="node">
+<title>EE410</title>
+<polygon fill="#bdecb6" stroke="black" points="1741.59,-683.5 1741.59,-735.5 2087.39,-735.5 2087.39,-683.5 1741.59,-683.5"/>
+<text text-anchor="middle" x="1772.11" y="-705" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">EE410</text>
+<polyline fill="none" stroke="black" points="1802.63,-683.5 1802.63,-735.5"/>
+<text text-anchor="middle" x="1914.84" y="-718" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Análisis de Señales y Sistemas</text>
+<polyline fill="none" stroke="black" points="1802.63,-709.5 2027.05,-709.5"/>
+<text text-anchor="middle" x="1914.84" y="-692" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">4 créditos</text>
+<polyline fill="none" stroke="black" points="2027.05,-683.5 2027.05,-735.5"/>
+<text text-anchor="middle" x="2043.38" y="-705" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">4°</text>
+<polyline fill="none" stroke="black" points="2059.72,-683.5 2059.72,-735.5"/>
+<text text-anchor="middle" x="2073.56" y="-705" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">G</text>
+</g>
+<!-- BMA05&#45;&gt;EE410 -->
+<g id="edge18" class="edge">
+<title>BMA05-&gt;EE410</title>
+<path fill="none" stroke="black" d="M1371.44,-764.79C1477.34,-753.99 1618.45,-739.59 1730.14,-728.2"/>
+<polygon fill="black" stroke="black" points="1739.99,-727.2 1730.5,-732.69 1736.23,-727.58 1730.04,-728.21 1730.04,-728.21 1730.04,-728.21 1736.23,-727.58 1729.58,-723.73 1739.99,-727.2"/>
+</g>
+<!-- BMA22 -->
+<g id="node28" class="node">
+<title>BMA22</title>
+<polygon fill="#bdecb6" stroke="black" points="2378.02,-617.5 2378.02,-669.5 2853.01,-669.5 2853.01,-617.5 2378.02,-617.5"/>
+<text text-anchor="middle" x="2410.61" y="-639" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BMA22</text>
+<polyline fill="none" stroke="black" points="2443.21,-617.5 2443.21,-669.5"/>
+<text text-anchor="middle" x="2617.94" y="-652" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Procesos Estocásticos y Teoría de la Información</text>
+<polyline fill="none" stroke="black" points="2443.21,-643.5 2792.67,-643.5"/>
+<text text-anchor="middle" x="2617.94" y="-626" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">4 créditos</text>
+<polyline fill="none" stroke="black" points="2792.67,-617.5 2792.67,-669.5"/>
+<text text-anchor="middle" x="2809.01" y="-639" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">5°</text>
+<polyline fill="none" stroke="black" points="2825.35,-617.5 2825.35,-669.5"/>
+<text text-anchor="middle" x="2839.18" y="-639" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">G</text>
+</g>
+<!-- BMA10&#45;&gt;BMA22 -->
+<g id="edge20" class="edge">
+<title>BMA10-&gt;BMA22</title>
+<path fill="none" stroke="black" d="M1383.83,-639.1C1627.61,-639.97 2083.47,-641.6 2366.73,-642.61"/>
+<polygon fill="black" stroke="black" points="2376.35,-642.65 2366.33,-647.11 2372.57,-642.63 2366.35,-642.61 2366.35,-642.61 2366.35,-642.61 2372.57,-642.63 2366.36,-638.11 2376.35,-642.65"/>
+</g>
+<!-- MIC06 -->
+<g id="node29" class="node">
+<title>MIC06</title>
+<polygon fill="#ff8c00" stroke="black" points="2376.33,-781.5 2376.33,-833.5 2854.7,-833.5 2854.7,-781.5 2376.33,-781.5"/>
+<text text-anchor="middle" x="2406.42" y="-803" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">MIC06</text>
+<polyline fill="none" stroke="black" points="2436.51,-781.5 2436.51,-833.5"/>
+<text text-anchor="middle" x="2616.69" y="-816" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Fundamentos de Microcontroladores y Aplicaciones</text>
+<polyline fill="none" stroke="black" points="2436.51,-807.5 2796.86,-807.5"/>
+<text text-anchor="middle" x="2616.69" y="-790" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">4 créditos</text>
+<polyline fill="none" stroke="black" points="2796.86,-781.5 2796.86,-833.5"/>
+<text text-anchor="middle" x="2813.19" y="-803" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">5°</text>
+<polyline fill="none" stroke="black" points="2829.53,-781.5 2829.53,-833.5"/>
+<text text-anchor="middle" x="2842.11" y="-803" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">F</text>
+</g>
+<!-- BMA15&#45;&gt;MIC06 -->
+<g id="edge22" class="edge">
+<title>BMA15-&gt;MIC06</title>
+<path fill="none" stroke="black" d="M1403.53,-464.36C1665.12,-450.64 2125.51,-439.64 2268.33,-520.5 2344.28,-563.5 2311.45,-626.13 2376.33,-684.5 2421.24,-724.89 2481.82,-755.94 2530.64,-776.74"/>
+<polygon fill="black" stroke="black" points="2539.75,-780.55 2528.79,-780.84 2536.26,-779.09 2530.53,-776.69 2530.53,-776.69 2530.53,-776.69 2536.26,-779.09 2532.26,-772.54 2539.75,-780.55"/>
+</g>
+<!-- CBS36 -->
+<g id="node59" class="node">
+<title>CBS36</title>
+<polygon fill="#b2ffff" stroke="#ff1717" stroke-width="2" points="3065.27,-371.5 3065.27,-423.5 3316.02,-423.5 3316.02,-371.5 3065.27,-371.5"/>
+<text text-anchor="middle" x="3097.03" y="-393" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBS36</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3128.8,-371.5 3128.8,-423.5"/>
+<text text-anchor="middle" x="3188.48" y="-406" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Desarrollo Web</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3128.8,-397.5 3248.16,-397.5"/>
+<text text-anchor="middle" x="3188.48" y="-380" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3248.16,-371.5 3248.16,-423.5"/>
+<text text-anchor="middle" x="3268.67" y="-393" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">11°</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3289.18,-371.5 3289.18,-423.5"/>
+<text text-anchor="middle" x="3302.6" y="-393" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- BMA15&#45;&gt;CBS36 -->
+<g id="edge63" class="edge">
+<title>BMA15-&gt;CBS36</title>
+<path fill="none" stroke="black" d="M1403.42,-458.95C1454.36,-454.65 1509.6,-450.44 1560.65,-447.5 2113.62,-415.68 2773.44,-403.29 3053.35,-399.22"/>
+<polygon fill="black" stroke="black" points="3063.15,-399.08 3053.21,-403.72 3059.36,-399.13 3053.15,-399.22 3053.15,-399.22 3053.15,-399.22 3059.36,-399.13 3053.08,-394.72 3063.15,-399.08"/>
+</g>
+<!-- CBN02&#45;&gt;CBS03 -->
+<g id="edge12" class="edge">
+<title>CBN02-&gt;CBS03</title>
+<path fill="none" stroke="black" d="M1346.68,-361.2C1463.28,-348.3 1634.96,-329.31 1758.8,-315.61"/>
+<polygon fill="black" stroke="black" points="1768.67,-314.52 1759.22,-320.09 1764.91,-314.94 1758.73,-315.62 1758.73,-315.62 1758.73,-315.62 1764.91,-314.94 1758.23,-311.15 1768.67,-314.52"/>
+</g>
+<!-- CBG01 -->
+<g id="node31" class="node">
+<title>CBG01</title>
+<polygon fill="#2e7d32" stroke="black" points="2435.51,-205.5 2435.51,-257.5 2795.52,-257.5 2795.52,-205.5 2435.51,-205.5"/>
+<text text-anchor="middle" x="2468.11" y="-227" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">CBG01</text>
+<polyline fill="none" stroke="black" points="2500.7,-205.5 2500.7,-257.5"/>
+<text text-anchor="middle" x="2617.94" y="-240" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">Fundamentos de Ciberseguridad</text>
+<polyline fill="none" stroke="black" points="2500.7,-231.5 2735.17,-231.5"/>
+<text text-anchor="middle" x="2617.94" y="-214" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">4 créditos</text>
+<polyline fill="none" stroke="black" points="2735.17,-205.5 2735.17,-257.5"/>
+<text text-anchor="middle" x="2751.51" y="-227" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">5°</text>
+<polyline fill="none" stroke="black" points="2767.85,-205.5 2767.85,-257.5"/>
+<text text-anchor="middle" x="2781.68" y="-227" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">G</text>
+</g>
+<!-- CBS03&#45;&gt;CBG01 -->
+<g id="edge26" class="edge">
+<title>CBS03-&gt;CBG01</title>
+<path fill="none" stroke="black" d="M2059.06,-284.74C2164.53,-274.63 2308.9,-260.79 2424.02,-249.76"/>
+<polygon fill="black" stroke="black" points="2433.86,-248.82 2424.33,-254.25 2430.09,-249.18 2423.9,-249.77 2423.9,-249.77 2423.9,-249.77 2430.09,-249.18 2423.47,-245.29 2433.86,-248.82"/>
+</g>
+<!-- BMA07&#45;&gt;EE522 -->
+<g id="edge25" class="edge">
+<title>BMA07-&gt;EE522</title>
+<path fill="none" stroke="black" d="M2041.89,-798.01C2109.8,-803.55 2194.52,-813.75 2268.33,-832.5 2370.94,-858.56 2483.66,-908.01 2551.74,-940.36"/>
+<polygon fill="black" stroke="black" points="2560.35,-944.48 2549.39,-944.22 2556.94,-942.85 2551.33,-940.16 2551.33,-940.16 2551.33,-940.16 2556.94,-942.85 2553.27,-936.1 2560.35,-944.48"/>
+</g>
+<!-- BMA20 -->
+<g id="node27" class="node">
+<title>BMA20</title>
+<polygon fill="#b2ffff" stroke="black" points="2425.54,-535.5 2425.54,-587.5 2805.49,-587.5 2805.49,-535.5 2425.54,-535.5"/>
+<text text-anchor="middle" x="2458.13" y="-557" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BMA20</text>
+<polyline fill="none" stroke="black" points="2490.73,-535.5 2490.73,-587.5"/>
+<text text-anchor="middle" x="2618.35" y="-570" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Algoritmos y Estructuras de Datos II</text>
+<polyline fill="none" stroke="black" points="2490.73,-561.5 2745.98,-561.5"/>
+<text text-anchor="middle" x="2618.35" y="-544" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="black" points="2745.98,-535.5 2745.98,-587.5"/>
+<text text-anchor="middle" x="2762.32" y="-557" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">5°</text>
+<polyline fill="none" stroke="black" points="2778.66,-535.5 2778.66,-587.5"/>
+<text text-anchor="middle" x="2792.07" y="-557" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- BMA18&#45;&gt;BMA20 -->
+<g id="edge19" class="edge">
+<title>BMA18-&gt;BMA20</title>
+<path fill="none" stroke="black" d="M2052.34,-561.5C2155.34,-561.5 2298.09,-561.5 2413.97,-561.5"/>
+<polygon fill="black" stroke="black" points="2423.88,-561.5 2413.88,-566 2420.1,-561.5 2413.88,-561.5 2413.88,-561.5 2413.88,-561.5 2420.1,-561.5 2413.88,-557 2423.88,-561.5"/>
+</g>
+<!-- EE320&#45;&gt;MIC06 -->
+<g id="edge23" class="edge">
+<title>EE320-&gt;MIC06</title>
+<path fill="none" stroke="black" d="M2050.27,-860.77C2139.45,-852.35 2259.08,-841.06 2365.23,-831.04"/>
+<polygon fill="black" stroke="black" points="2374.91,-830.12 2365.37,-835.54 2371.14,-830.48 2364.95,-831.06 2364.95,-831.06 2364.95,-831.06 2371.14,-830.48 2364.53,-826.58 2374.91,-830.12"/>
+</g>
+<!-- EE410&#45;&gt;BMA22 -->
+<g id="edge21" class="edge">
+<title>EE410-&gt;BMA22</title>
+<path fill="none" stroke="black" d="M2087.83,-693.23C2171.93,-685.29 2274.63,-675.59 2366.93,-666.88"/>
+<polygon fill="black" stroke="black" points="2376.63,-665.96 2367.1,-671.38 2372.87,-666.32 2366.68,-666.9 2366.68,-666.9 2366.68,-666.9 2372.87,-666.32 2366.25,-662.42 2376.63,-665.96"/>
+</g>
+<!-- BIE01 -->
+<g id="node25" class="node">
+<title>BIE01</title>
+<polygon fill="#e6e6fa" stroke="black" points="1560.65,-1003.5 1560.65,-1055.5 2268.33,-1055.5 2268.33,-1003.5 1560.65,-1003.5"/>
+<text text-anchor="middle" x="1589.08" y="-1025" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BIE01</text>
+<polyline fill="none" stroke="black" points="1617.51,-1003.5 1617.51,-1055.5"/>
+<text text-anchor="middle" x="1815.61" y="-1038" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Idioma Extranjero o Lengua Nativa en el Nivel Intermedio</text>
+<polyline fill="none" stroke="black" points="1617.51,-1029.5 2013.72,-1029.5"/>
+<text text-anchor="middle" x="1815.61" y="-1012" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">2 créditos</text>
+<polyline fill="none" stroke="black" points="2013.72,-1003.5 2013.72,-1055.5"/>
+<text text-anchor="middle" x="2034.23" y="-1025" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">11°</text>
+<polyline fill="none" stroke="black" points="2054.73,-1003.5 2054.73,-1055.5"/>
+<text text-anchor="middle" x="2161.53" y="-1025" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Examen de Suficiencia CEPS</text>
+</g>
+<!-- BEF01 -->
+<g id="node26" class="node">
+<title>BEF01</title>
+<polygon fill="#e6e6fa" stroke="black" points="2463.89,-1027.5 2463.89,-1079.5 2767.15,-1079.5 2767.15,-1027.5 2463.89,-1027.5"/>
+<text text-anchor="middle" x="2494.81" y="-1049" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">BEF01</text>
+<polyline fill="none" stroke="black" points="2525.74,-1027.5 2525.74,-1079.5"/>
+<text text-anchor="middle" x="2616.69" y="-1062" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Ética y Filosofía Política</text>
+<polyline fill="none" stroke="black" points="2525.74,-1053.5 2707.64,-1053.5"/>
+<text text-anchor="middle" x="2616.69" y="-1036" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">2 créditos</text>
+<polyline fill="none" stroke="black" points="2707.64,-1027.5 2707.64,-1079.5"/>
+<text text-anchor="middle" x="2723.97" y="-1049" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">5°</text>
+<polyline fill="none" stroke="black" points="2740.31,-1027.5 2740.31,-1079.5"/>
+<text text-anchor="middle" x="2753.73" y="-1049" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- CIB02 -->
+<g id="node33" class="node">
+<title>CIB02</title>
+<polygon fill="#b2ffff" stroke="black" points="3046.5,-453.5 3046.5,-505.5 3334.79,-505.5 3334.79,-453.5 3046.5,-453.5"/>
+<text text-anchor="middle" x="3075.34" y="-475" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CIB02</text>
+<polyline fill="none" stroke="black" points="3104.18,-453.5 3104.18,-505.5"/>
+<text text-anchor="middle" x="3189.73" y="-488" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Ingeniería de Software</text>
+<polyline fill="none" stroke="black" points="3104.18,-479.5 3275.28,-479.5"/>
+<text text-anchor="middle" x="3189.73" y="-462" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="black" points="3275.28,-453.5 3275.28,-505.5"/>
+<text text-anchor="middle" x="3291.62" y="-475" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">6°</text>
+<polyline fill="none" stroke="black" points="3307.96,-453.5 3307.96,-505.5"/>
+<text text-anchor="middle" x="3321.38" y="-475" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- BMA20&#45;&gt;CIB02 -->
+<g id="edge28" class="edge">
+<title>BMA20-&gt;CIB02</title>
+<path fill="none" stroke="black" d="M2801.41,-535.05C2876.86,-524.25 2963.13,-511.91 3035.15,-501.6"/>
+<polygon fill="black" stroke="black" points="3044.92,-500.21 3035.66,-506.08 3041.17,-500.74 3035.02,-501.62 3035.02,-501.62 3035.02,-501.62 3041.17,-500.74 3034.38,-497.17 3044.92,-500.21"/>
+</g>
+<!-- CBS04 -->
+<g id="node34" class="node">
+<title>CBS04</title>
+<polygon fill="#b2ffff" stroke="black" points="3067.34,-535.5 3067.34,-587.5 3313.94,-587.5 3313.94,-535.5 3067.34,-535.5"/>
+<text text-anchor="middle" x="3099.11" y="-557" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBS04</text>
+<polyline fill="none" stroke="black" points="3130.87,-535.5 3130.87,-587.5"/>
+<text text-anchor="middle" x="3192.23" y="-570" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Base de Datos I</text>
+<polyline fill="none" stroke="black" points="3130.87,-561.5 3253.6,-561.5"/>
+<text text-anchor="middle" x="3192.23" y="-544" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">4 créditos</text>
+<polyline fill="none" stroke="black" points="3253.6,-535.5 3253.6,-587.5"/>
+<text text-anchor="middle" x="3269.94" y="-557" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">6°</text>
+<polyline fill="none" stroke="black" points="3286.28,-535.5 3286.28,-587.5"/>
+<text text-anchor="middle" x="3300.11" y="-557" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">G</text>
+</g>
+<!-- BMA20&#45;&gt;CBS04 -->
+<g id="edge29" class="edge">
+<title>BMA20-&gt;CBS04</title>
+<path fill="none" stroke="black" d="M2805.77,-561.5C2887.66,-561.5 2981.57,-561.5 3056.02,-561.5"/>
+<polygon fill="black" stroke="black" points="3065.64,-561.5 3055.64,-566 3061.85,-561.5 3055.64,-561.5 3055.64,-561.5 3055.64,-561.5 3061.85,-561.5 3055.64,-557 3065.64,-561.5"/>
+</g>
+<!-- CBS05 -->
+<g id="node37" class="node">
+<title>CBS05</title>
+<polygon fill="#b2ffff" stroke="black" points="3050.26,-617.5 3050.26,-669.5 3331.03,-669.5 3331.03,-617.5 3050.26,-617.5"/>
+<text text-anchor="middle" x="3082.02" y="-639" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBS05</text>
+<polyline fill="none" stroke="black" points="3113.79,-617.5 3113.79,-669.5"/>
+<text text-anchor="middle" x="3192.23" y="-652" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Inteligencia Artificial I</text>
+<polyline fill="none" stroke="black" points="3113.79,-643.5 3270.68,-643.5"/>
+<text text-anchor="middle" x="3192.23" y="-626" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">4 créditos</text>
+<polyline fill="none" stroke="black" points="3270.68,-617.5 3270.68,-669.5"/>
+<text text-anchor="middle" x="3287.02" y="-639" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">6°</text>
+<polyline fill="none" stroke="black" points="3303.36,-617.5 3303.36,-669.5"/>
+<text text-anchor="middle" x="3317.19" y="-639" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">G</text>
+</g>
+<!-- BMA20&#45;&gt;CBS05 -->
+<g id="edge32" class="edge">
+<title>BMA20-&gt;CBS05</title>
+<path fill="none" stroke="black" d="M2801.41,-587.95C2878.11,-598.93 2965.98,-611.5 3038.7,-621.9"/>
+<polygon fill="black" stroke="black" points="3048.57,-623.32 3038.03,-626.35 3044.83,-622.78 3038.67,-621.9 3038.67,-621.9 3038.67,-621.9 3044.83,-622.78 3039.31,-617.45 3048.57,-623.32"/>
+</g>
+<!-- BMA20&#45;&gt;CBS36 -->
+<g id="edge64" class="edge">
+<title>BMA20-&gt;CBS36</title>
+<path fill="none" stroke="black" d="M2680.92,-535.05C2749.7,-507.66 2862.38,-465.19 2962.7,-438.5 2991.73,-430.77 3023.24,-424.06 3053.28,-418.42"/>
+<polygon fill="black" stroke="black" points="3063.08,-416.61 3054.06,-422.85 3059.36,-417.3 3053.24,-418.42 3053.24,-418.42 3053.24,-418.42 3059.36,-417.3 3052.43,-414 3063.08,-416.61"/>
+</g>
+<!-- BMA22&#45;&gt;CBS05 -->
+<g id="edge33" class="edge">
+<title>BMA22-&gt;CBS05</title>
+<path fill="none" stroke="black" d="M2853.35,-643.5C2916.17,-643.5 2982.28,-643.5 3039.1,-643.5"/>
+<polygon fill="black" stroke="black" points="3048.75,-643.5 3038.75,-648 3044.97,-643.5 3038.75,-643.5 3038.75,-643.5 3038.75,-643.5 3044.97,-643.5 3038.75,-639 3048.75,-643.5"/>
+</g>
+<!-- CBN03 -->
+<g id="node35" class="node">
+<title>CBN03</title>
+<polygon fill="#2e7d32" stroke="black" points="3007.72,-863.5 3007.72,-915.5 3373.56,-915.5 3373.56,-863.5 3007.72,-863.5"/>
+<text text-anchor="middle" x="3039.9" y="-885" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">CBN03</text>
+<polyline fill="none" stroke="black" points="3072.08,-863.5 3072.08,-915.5"/>
+<text text-anchor="middle" x="3193.07" y="-898" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">Seguridad de Redes Industriales I</text>
+<polyline fill="none" stroke="black" points="3072.08,-889.5 3314.05,-889.5"/>
+<text text-anchor="middle" x="3193.07" y="-872" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">4 créditos</text>
+<polyline fill="none" stroke="black" points="3314.05,-863.5 3314.05,-915.5"/>
+<text text-anchor="middle" x="3330.39" y="-885" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">6°</text>
+<polyline fill="none" stroke="black" points="3346.73,-863.5 3346.73,-915.5"/>
+<text text-anchor="middle" x="3360.15" y="-885" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">D</text>
+</g>
+<!-- MIC06&#45;&gt;CBN03 -->
+<g id="edge30" class="edge">
+<title>MIC06-&gt;CBN03</title>
+<path fill="none" stroke="black" d="M2801.41,-833.95C2863.88,-842.89 2933.75,-852.89 2996.82,-861.91"/>
+<polygon fill="black" stroke="black" points="3006.49,-863.29 2995.95,-866.33 3002.74,-862.76 2996.59,-861.88 2996.59,-861.88 2996.59,-861.88 3002.74,-862.76 2997.22,-857.42 3006.49,-863.29"/>
+</g>
+<!-- CBS37 -->
+<g id="node60" class="node">
+<title>CBS37</title>
+<polygon fill="#b2ffff" stroke="#ff1717" stroke-width="2" points="3046.08,-781.5 3046.08,-833.5 3335.21,-833.5 3335.21,-781.5 3046.08,-781.5"/>
+<text text-anchor="middle" x="3077.84" y="-803" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBS37</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3109.61,-781.5 3109.61,-833.5"/>
+<text text-anchor="middle" x="3188.48" y="-816" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Internet de las Cosas</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3109.61,-807.5 3267.35,-807.5"/>
+<text text-anchor="middle" x="3188.48" y="-790" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3267.35,-781.5 3267.35,-833.5"/>
+<text text-anchor="middle" x="3287.86" y="-803" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">11°</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3308.37,-781.5 3308.37,-833.5"/>
+<text text-anchor="middle" x="3321.79" y="-803" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- MIC06&#45;&gt;CBS37 -->
+<g id="edge65" class="edge">
+<title>MIC06-&gt;CBS37</title>
+<path fill="none" stroke="black" d="M2855.01,-807.5C2915.66,-807.5 2979.27,-807.5 3034.55,-807.5"/>
+<polygon fill="black" stroke="black" points="3044.27,-807.5 3034.27,-812 3040.49,-807.5 3034.27,-807.5 3034.27,-807.5 3034.27,-807.5 3040.49,-807.5 3034.27,-803 3044.27,-807.5"/>
+</g>
+<!-- CBN30 -->
+<g id="node64" class="node">
+<title>CBN30</title>
+<polygon fill="#2e7d32" stroke="#ff1717" stroke-width="2" points="3008.98,-699.5 3008.98,-751.5 3372.31,-751.5 3372.31,-699.5 3008.98,-699.5"/>
+<text text-anchor="middle" x="3041.16" y="-721" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">CBN30</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3073.34,-699.5 3073.34,-751.5"/>
+<text text-anchor="middle" x="3188.9" y="-734" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">Testing de Calidad de Hardware</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3073.34,-725.5 3304.45,-725.5"/>
+<text text-anchor="middle" x="3188.9" y="-708" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">3 créditos</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3304.45,-699.5 3304.45,-751.5"/>
+<text text-anchor="middle" x="3324.96" y="-721" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">11°</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3345.47,-699.5 3345.47,-751.5"/>
+<text text-anchor="middle" x="3358.89" y="-721" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">D</text>
+</g>
+<!-- MIC06&#45;&gt;CBN30 -->
+<g id="edge66" class="edge">
+<title>MIC06-&gt;CBN30</title>
+<path fill="none" stroke="black" d="M2801.41,-781.05C2864.03,-772.09 2934.1,-762.06 2997.29,-753.02"/>
+<polygon fill="black" stroke="black" points="3006.97,-751.64 2997.71,-757.51 3003.23,-752.17 2997.08,-753.05 2997.08,-753.05 2997.08,-753.05 3003.23,-752.17 2996.44,-748.6 3006.97,-751.64"/>
+</g>
+<!-- CBN07 -->
+<g id="node44" class="node">
+<title>CBN07</title>
+<polygon fill="#2e7d32" stroke="black" points="4180.1,-1098.5 4180.1,-1150.5 4512.57,-1150.5 4512.57,-1098.5 4180.1,-1098.5"/>
+<text text-anchor="middle" x="4212.27" y="-1120" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">CBN07</text>
+<polyline fill="none" stroke="black" points="4244.45,-1098.5 4244.45,-1150.5"/>
+<text text-anchor="middle" x="4348.34" y="-1133" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">Seguridad de Redes Móviles</text>
+<polyline fill="none" stroke="black" points="4244.45,-1124.5 4452.22,-1124.5"/>
+<text text-anchor="middle" x="4348.34" y="-1107" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">3 créditos</text>
+<polyline fill="none" stroke="black" points="4452.22,-1098.5 4452.22,-1150.5"/>
+<text text-anchor="middle" x="4468.56" y="-1120" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">8°</text>
+<polyline fill="none" stroke="black" points="4484.9,-1098.5 4484.9,-1150.5"/>
+<text text-anchor="middle" x="4498.73" y="-1120" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">G</text>
+</g>
+<!-- EE522&#45;&gt;CBN07 -->
+<g id="edge40" class="edge">
+<title>EE522-&gt;CBN07</title>
+<path fill="none" stroke="black" d="M2751.75,-983.29C2786.27,-989.38 2822.66,-998.58 2854.7,-1012.5 2909.97,-1036.52 2905.79,-1074.65 2962.7,-1094.5 3382.24,-1240.81 3917.74,-1191.26 4182.31,-1152.57"/>
+<polygon fill="black" stroke="black" points="4191.95,-1151.15 4182.71,-1157.06 4188.21,-1151.7 4182.05,-1152.61 4182.05,-1152.61 4182.05,-1152.61 4188.21,-1151.7 4181.4,-1148.16 4191.95,-1151.15"/>
+</g>
+<!-- CBS33 -->
+<g id="node65" class="node">
+<title>CBS33</title>
+<polygon fill="#d2b48c" stroke="#ff1717" stroke-width="2" points="3023.15,-1027.5 3023.15,-1079.5 3358.13,-1079.5 3358.13,-1027.5 3023.15,-1027.5"/>
+<text text-anchor="middle" x="3054.92" y="-1049" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBS33</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3086.68,-1027.5 3086.68,-1079.5"/>
+<text text-anchor="middle" x="3188.48" y="-1062" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Radio Definida por Software</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3086.68,-1053.5 3290.28,-1053.5"/>
+<text text-anchor="middle" x="3188.48" y="-1036" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3290.28,-1027.5 3290.28,-1079.5"/>
+<text text-anchor="middle" x="3310.79" y="-1049" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">11°</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3331.3,-1027.5 3331.3,-1079.5"/>
+<text text-anchor="middle" x="3344.72" y="-1049" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- EE522&#45;&gt;CBS33 -->
+<g id="edge57" class="edge">
+<title>EE522-&gt;CBS33</title>
+<path fill="none" stroke="black" d="M2751.61,-990.83C2829.21,-1001.93 2927.6,-1016.01 3011.46,-1028.01"/>
+<polygon fill="black" stroke="black" points="3021.2,-1029.4 3010.66,-1032.44 3017.46,-1028.86 3011.3,-1027.98 3011.3,-1027.98 3011.3,-1027.98 3017.46,-1028.86 3011.94,-1023.53 3021.2,-1029.4"/>
+</g>
+<!-- CBG31 -->
+<g id="node66" class="node">
+<title>CBG31</title>
+<polygon fill="#d2b48c" stroke="#ff1717" stroke-width="2" points="3053.6,-945.5 3053.6,-997.5 3327.69,-997.5 3327.69,-945.5 3053.6,-945.5"/>
+<text text-anchor="middle" x="3086.19" y="-967" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBG31</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3118.79,-945.5 3118.79,-997.5"/>
+<text text-anchor="middle" x="3189.31" y="-980" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Guerra Electrónica</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3118.79,-971.5 3259.84,-971.5"/>
+<text text-anchor="middle" x="3189.31" y="-954" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3259.84,-945.5 3259.84,-997.5"/>
+<text text-anchor="middle" x="3280.35" y="-967" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">11°</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3300.86,-945.5 3300.86,-997.5"/>
+<text text-anchor="middle" x="3314.27" y="-967" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- EE522&#45;&gt;CBG31 -->
+<g id="edge59" class="edge">
+<title>EE522-&gt;CBG31</title>
+<path fill="none" stroke="black" d="M2751.61,-971.5C2838.82,-971.5 2952.29,-971.5 3041.89,-971.5"/>
+<polygon fill="black" stroke="black" points="3051.75,-971.5 3041.75,-976 3047.97,-971.5 3041.75,-971.5 3041.75,-971.5 3041.75,-971.5 3047.97,-971.5 3041.75,-967 3051.75,-971.5"/>
+</g>
+<!-- CBD01 -->
+<g id="node32" class="node">
+<title>CBD01</title>
+<polygon fill="#2e7d32" stroke="black" points="3054,-164.5 3054,-216.5 3327.29,-216.5 3327.29,-164.5 3054,-164.5"/>
+<text text-anchor="middle" x="3086.18" y="-186" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">CBD01</text>
+<polyline fill="none" stroke="black" points="3118.35,-164.5 3118.35,-216.5"/>
+<text text-anchor="middle" x="3192.65" y="-199" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">Seguridad de Datos</text>
+<polyline fill="none" stroke="black" points="3118.35,-190.5 3266.94,-190.5"/>
+<text text-anchor="middle" x="3192.65" y="-173" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">4 créditos</text>
+<polyline fill="none" stroke="black" points="3266.94,-164.5 3266.94,-216.5"/>
+<text text-anchor="middle" x="3283.28" y="-186" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">6°</text>
+<polyline fill="none" stroke="black" points="3299.62,-164.5 3299.62,-216.5"/>
+<text text-anchor="middle" x="3313.45" y="-186" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">G</text>
+</g>
+<!-- CBG01&#45;&gt;CBD01 -->
+<g id="edge27" class="edge">
+<title>CBG01-&gt;CBD01</title>
+<path fill="none" stroke="black" d="M2795.89,-218.67C2875.23,-212.99 2967.37,-206.4 3042.57,-201.02"/>
+<polygon fill="black" stroke="black" points="3052.32,-200.32 3042.67,-205.53 3048.55,-200.59 3042.35,-201.04 3042.35,-201.04 3042.35,-201.04 3048.55,-200.59 3042.03,-196.55 3052.32,-200.32"/>
+</g>
+<!-- CBN04 -->
+<g id="node36" class="node">
+<title>CBN04</title>
+<polygon fill="#2e7d32" stroke="black" points="2998.14,-246.5 2998.14,-298.5 3383.15,-298.5 3383.15,-246.5 2998.14,-246.5"/>
+<text text-anchor="middle" x="3030.31" y="-268" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">CBN04</text>
+<polyline fill="none" stroke="black" points="3062.49,-246.5 3062.49,-298.5"/>
+<text text-anchor="middle" x="3193.07" y="-281" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">Pentesting en Infraestructura de Red</text>
+<polyline fill="none" stroke="black" points="3062.49,-272.5 3323.64,-272.5"/>
+<text text-anchor="middle" x="3193.07" y="-255" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">3 créditos</text>
+<polyline fill="none" stroke="black" points="3323.64,-246.5 3323.64,-298.5"/>
+<text text-anchor="middle" x="3339.98" y="-268" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">6°</text>
+<polyline fill="none" stroke="black" points="3356.32,-246.5 3356.32,-298.5"/>
+<text text-anchor="middle" x="3369.73" y="-268" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">D</text>
+</g>
+<!-- CBG01&#45;&gt;CBN04 -->
+<g id="edge31" class="edge">
+<title>CBG01-&gt;CBN04</title>
+<path fill="none" stroke="black" d="M2795.89,-244.33C2856.45,-248.66 2924.47,-253.53 2986.72,-257.98"/>
+<polygon fill="black" stroke="black" points="2996.65,-258.69 2986.36,-262.47 2992.88,-258.42 2986.68,-257.98 2986.68,-257.98 2986.68,-257.98 2992.88,-258.42 2987,-253.49 2996.65,-258.69"/>
+</g>
+<!-- CIB59 -->
+<g id="node63" class="node">
+<title>CIB59</title>
+<polygon fill="#2e7d32" stroke="#ff1717" stroke-width="2" points="2962.7,-82.5 2962.7,-134.5 3418.59,-134.5 3418.59,-82.5 2962.7,-82.5"/>
+<text text-anchor="middle" x="2991.54" y="-104" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">CIB59</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3020.38,-82.5 3020.38,-134.5"/>
+<text text-anchor="middle" x="3185.56" y="-117" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">Seguridad en Plataformas de Cloud Computing</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3020.38,-108.5 3350.74,-108.5"/>
+<text text-anchor="middle" x="3185.56" y="-91" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">3 créditos</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3350.74,-82.5 3350.74,-134.5"/>
+<text text-anchor="middle" x="3371.25" y="-104" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">11°</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3391.76,-82.5 3391.76,-134.5"/>
+<text text-anchor="middle" x="3405.18" y="-104" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">D</text>
+</g>
+<!-- CBG01&#45;&gt;CIB59 -->
+<g id="edge60" class="edge">
+<title>CBG01-&gt;CIB59</title>
+<path fill="none" stroke="black" d="M2721.48,-205.08C2789.95,-188.24 2881.37,-166.46 2962.7,-149.5 2982.21,-145.43 3002.73,-141.39 3023.11,-137.52"/>
+<polygon fill="black" stroke="black" points="3032.88,-135.68 3023.89,-141.96 3029.17,-136.38 3023.05,-137.53 3023.05,-137.53 3023.05,-137.53 3029.17,-136.38 3022.22,-133.11 3032.88,-135.68"/>
+</g>
+<!-- CBH01 -->
+<g id="node40" class="node">
+<title>CBH01</title>
+<polygon fill="#2e7d32" stroke="black" points="3636.22,-82.5 3636.22,-134.5 3891.99,-134.5 3891.99,-82.5 3636.22,-82.5"/>
+<text text-anchor="middle" x="3668.4" y="-104" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">CBH01</text>
+<polyline fill="none" stroke="black" points="3700.58,-82.5 3700.58,-134.5"/>
+<text text-anchor="middle" x="3766.53" y="-117" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">Ingeniería Social</text>
+<polyline fill="none" stroke="black" points="3700.58,-108.5 3832.49,-108.5"/>
+<text text-anchor="middle" x="3766.53" y="-91" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">3 créditos</text>
+<polyline fill="none" stroke="black" points="3832.49,-82.5 3832.49,-134.5"/>
+<text text-anchor="middle" x="3848.82" y="-104" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">7°</text>
+<polyline fill="none" stroke="black" points="3865.16,-82.5 3865.16,-134.5"/>
+<text text-anchor="middle" x="3878.58" y="-104" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">D</text>
+</g>
+<!-- CBD01&#45;&gt;CBH01 -->
+<g id="edge36" class="edge">
+<title>CBD01-&gt;CBH01</title>
+<path fill="none" stroke="black" d="M3327.44,-171.02C3417.36,-158.11 3534.94,-141.24 3625.28,-128.28"/>
+<polygon fill="black" stroke="black" points="3634.95,-126.89 3625.69,-132.76 3631.21,-127.43 3625.05,-128.31 3625.05,-128.31 3625.05,-128.31 3631.21,-127.43 3624.41,-123.86 3634.95,-126.89"/>
+</g>
+<!-- CBD30 -->
+<g id="node61" class="node">
+<title>CBD30</title>
+<polygon fill="#2e7d32" stroke="#ff1717" stroke-width="2" points="3601.64,-0.5 3601.64,-52.5 3926.58,-52.5 3926.58,-0.5 3601.64,-0.5"/>
+<text text-anchor="middle" x="3633.81" y="-22" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">CBD30</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3665.99,-0.5 3665.99,-52.5"/>
+<text text-anchor="middle" x="3762.36" y="-35" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">Ciberseguridad Biométrica</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3665.99,-26.5 3858.73,-26.5"/>
+<text text-anchor="middle" x="3762.36" y="-9" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">3 créditos</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3858.73,-0.5 3858.73,-52.5"/>
+<text text-anchor="middle" x="3879.24" y="-22" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">11°</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3899.75,-0.5 3899.75,-52.5"/>
+<text text-anchor="middle" x="3913.17" y="-22" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">D</text>
+</g>
+<!-- CBD01&#45;&gt;CBD30 -->
+<g id="edge54" class="edge">
+<title>CBD01-&gt;CBD30</title>
+<path fill="none" stroke="black" d="M3327.65,-176.65C3358.38,-170.61 3390.28,-161.94 3418.59,-149.5 3473.77,-125.25 3471.33,-91.55 3526.59,-67.5 3546.54,-58.82 3568.19,-51.97 3590.02,-46.57"/>
+<polygon fill="black" stroke="black" points="3599.55,-44.32 3590.86,-51 3595.87,-45.19 3589.82,-46.62 3589.82,-46.62 3589.82,-46.62 3595.87,-45.19 3588.79,-42.24 3599.55,-44.32"/>
+</g>
+<!-- CBD31 -->
+<g id="node62" class="node">
+<title>CBD31</title>
+<polygon fill="#2e7d32" stroke="#ff1717" stroke-width="2" points="3562.44,-164.5 3562.44,-216.5 3965.78,-216.5 3965.78,-164.5 3562.44,-164.5"/>
+<text text-anchor="middle" x="3594.62" y="-186" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">CBD31</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3626.8,-164.5 3626.8,-216.5"/>
+<text text-anchor="middle" x="3762.36" y="-199" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">Aplicaciones de Criptografía Cuántica</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3626.8,-190.5 3897.93,-190.5"/>
+<text text-anchor="middle" x="3762.36" y="-173" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">3 créditos</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3897.93,-164.5 3897.93,-216.5"/>
+<text text-anchor="middle" x="3918.44" y="-186" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">11°</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3938.95,-164.5 3938.95,-216.5"/>
+<text text-anchor="middle" x="3952.36" y="-186" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">D</text>
+</g>
+<!-- CBD01&#45;&gt;CBD31 -->
+<g id="edge55" class="edge">
+<title>CBD01-&gt;CBD31</title>
+<path fill="none" stroke="black" d="M3327.44,-190.5C3394.06,-190.5 3475.85,-190.5 3550.51,-190.5"/>
+<polygon fill="black" stroke="black" points="3560.25,-190.5 3550.25,-195 3556.47,-190.5 3550.25,-190.5 3550.25,-190.5 3550.25,-190.5 3556.47,-190.5 3550.25,-186 3560.25,-190.5"/>
+</g>
+<!-- CBS07 -->
+<g id="node45" class="node">
+<title>CBS07</title>
+<polygon fill="#b2ffff" stroke="black" points="4200.1,-328.5 4200.1,-380.5 4492.57,-380.5 4492.57,-328.5 4200.1,-328.5"/>
+<text text-anchor="middle" x="4231.86" y="-350" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBS07</text>
+<polyline fill="none" stroke="black" points="4263.62,-328.5 4263.62,-380.5"/>
+<text text-anchor="middle" x="4347.92" y="-363" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Seguridad de Software</text>
+<polyline fill="none" stroke="black" points="4263.62,-354.5 4432.22,-354.5"/>
+<text text-anchor="middle" x="4347.92" y="-337" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="black" points="4432.22,-328.5 4432.22,-380.5"/>
+<text text-anchor="middle" x="4448.56" y="-350" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">8°</text>
+<polyline fill="none" stroke="black" points="4464.9,-328.5 4464.9,-380.5"/>
+<text text-anchor="middle" x="4478.73" y="-350" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">G</text>
+</g>
+<!-- CIB02&#45;&gt;CBS07 -->
+<g id="edge41" class="edge">
+<title>CIB02-&gt;CBS07</title>
+<path fill="none" stroke="black" d="M3335.1,-465.3C3497.06,-449.1 3768.39,-421.5 4001.63,-395.5 4062.91,-388.67 4130.29,-380.72 4189.03,-373.66"/>
+<polygon fill="black" stroke="black" points="4198.68,-372.5 4189.29,-378.16 4194.93,-372.95 4188.75,-373.69 4188.75,-373.69 4188.75,-373.69 4194.93,-372.95 4188.22,-369.23 4198.68,-372.5"/>
+</g>
+<!-- CBS34 -->
+<g id="node57" class="node">
+<title>CBS34</title>
+<polygon fill="#b2ffff" stroke="#ff1717" stroke-width="2" points="3617.89,-328.5 3617.89,-380.5 3910.33,-380.5 3910.33,-328.5 3617.89,-328.5"/>
+<text text-anchor="middle" x="3649.65" y="-350" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBS34</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3681.41,-328.5 3681.41,-380.5"/>
+<text text-anchor="middle" x="3761.95" y="-363" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Visión Computacional</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3681.41,-354.5 3842.48,-354.5"/>
+<text text-anchor="middle" x="3761.95" y="-337" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3842.48,-328.5 3842.48,-380.5"/>
+<text text-anchor="middle" x="3862.99" y="-350" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">11°</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3883.5,-328.5 3883.5,-380.5"/>
+<text text-anchor="middle" x="3896.92" y="-350" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- CIB02&#45;&gt;CBS34 -->
+<g id="edge61" class="edge">
+<title>CIB02-&gt;CBS34</title>
+<path fill="none" stroke="black" d="M3335.13,-456.6C3362.96,-451.31 3391.8,-445.23 3418.59,-438.5 3467.53,-426.21 3477.82,-416.42 3526.59,-403.5 3553.16,-396.46 3581.63,-389.82 3609.29,-383.83"/>
+<polygon fill="black" stroke="black" points="3619.06,-381.73 3610.23,-388.23 3615.36,-382.52 3609.28,-383.83 3609.28,-383.83 3609.28,-383.83 3615.36,-382.52 3608.34,-379.43 3619.06,-381.73"/>
+</g>
+<!-- CBS35 -->
+<g id="node58" class="node">
+<title>CBS35</title>
+<polygon fill="#b2ffff" stroke="#ff1717" stroke-width="2" points="3585.78,-470.5 3585.78,-522.5 3942.44,-522.5 3942.44,-470.5 3585.78,-470.5"/>
+<text text-anchor="middle" x="3617.54" y="-492" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBS35</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3649.3,-470.5 3649.3,-522.5"/>
+<text text-anchor="middle" x="3761.95" y="-505" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Testing de Calidad de Software</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3649.3,-496.5 3874.59,-496.5"/>
+<text text-anchor="middle" x="3761.95" y="-479" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3874.59,-470.5 3874.59,-522.5"/>
+<text text-anchor="middle" x="3895.1" y="-492" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">11°</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3915.61,-470.5 3915.61,-522.5"/>
+<text text-anchor="middle" x="3929.03" y="-492" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- CIB02&#45;&gt;CBS35 -->
+<g id="edge62" class="edge">
+<title>CIB02-&gt;CBS35</title>
+<path fill="none" stroke="black" d="M3335.11,-483.77C3407.5,-485.92 3496.25,-488.56 3574.12,-490.88"/>
+<polygon fill="black" stroke="black" points="3583.82,-491.17 3573.69,-495.37 3580.04,-491.05 3573.82,-490.87 3573.82,-490.87 3573.82,-490.87 3580.04,-491.05 3573.96,-486.37 3583.82,-491.17"/>
+</g>
+<!-- CBS08 -->
+<g id="node46" class="node">
+<title>CBS08</title>
+<polygon fill="#b2ffff" stroke="black" points="4220.95,-541.5 4220.95,-593.5 4471.72,-593.5 4471.72,-541.5 4220.95,-541.5"/>
+<text text-anchor="middle" x="4252.71" y="-563" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBS08</text>
+<polyline fill="none" stroke="black" points="4284.48,-541.5 4284.48,-593.5"/>
+<text text-anchor="middle" x="4347.92" y="-576" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Base de Datos II</text>
+<polyline fill="none" stroke="black" points="4284.48,-567.5 4411.37,-567.5"/>
+<text text-anchor="middle" x="4347.92" y="-550" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">4 créditos</text>
+<polyline fill="none" stroke="black" points="4411.37,-541.5 4411.37,-593.5"/>
+<text text-anchor="middle" x="4427.71" y="-563" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">8°</text>
+<polyline fill="none" stroke="black" points="4444.05,-541.5 4444.05,-593.5"/>
+<text text-anchor="middle" x="4457.88" y="-563" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">G</text>
+</g>
+<!-- CBS04&#45;&gt;CBS08 -->
+<g id="edge43" class="edge">
+<title>CBS04-&gt;CBS08</title>
+<path fill="none" stroke="black" d="M3314.29,-562.14C3531.81,-563.27 3983.5,-565.62 4209.86,-566.8"/>
+<polygon fill="black" stroke="black" points="4219.58,-566.85 4209.56,-571.29 4215.8,-566.83 4209.58,-566.79 4209.58,-566.79 4209.58,-566.79 4215.8,-566.83 4209.61,-562.29 4219.58,-566.85"/>
+</g>
+<!-- CBN06 -->
+<g id="node41" class="node">
+<title>CBN06</title>
+<polygon fill="#2e7d32" stroke="black" points="3578.69,-863.5 3578.69,-915.5 3949.53,-915.5 3949.53,-863.5 3578.69,-863.5"/>
+<text text-anchor="middle" x="3610.87" y="-885" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">CBN06</text>
+<polyline fill="none" stroke="black" points="3643.04,-863.5 3643.04,-915.5"/>
+<text text-anchor="middle" x="3766.11" y="-898" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">Seguridad de Redes Industriales II</text>
+<polyline fill="none" stroke="black" points="3643.04,-889.5 3889.19,-889.5"/>
+<text text-anchor="middle" x="3766.11" y="-872" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">4 créditos</text>
+<polyline fill="none" stroke="black" points="3889.19,-863.5 3889.19,-915.5"/>
+<text text-anchor="middle" x="3905.52" y="-885" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">7°</text>
+<polyline fill="none" stroke="black" points="3921.86,-863.5 3921.86,-915.5"/>
+<text text-anchor="middle" x="3935.7" y="-885" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">G</text>
+</g>
+<!-- CBN03&#45;&gt;CBN06 -->
+<g id="edge37" class="edge">
+<title>CBN03-&gt;CBN06</title>
+<path fill="none" stroke="black" d="M3374.03,-889.5C3435.66,-889.5 3504.7,-889.5 3567.33,-889.5"/>
+<polygon fill="black" stroke="black" points="3577.31,-889.5 3567.31,-894 3573.53,-889.5 3567.31,-889.5 3567.31,-889.5 3567.31,-889.5 3573.53,-889.5 3567.31,-885 3577.31,-889.5"/>
+</g>
+<!-- CBN05 -->
+<g id="node38" class="node">
+<title>CBN05</title>
+<polygon fill="#2e7d32" stroke="black" points="3571.6,-246.5 3571.6,-298.5 3956.62,-298.5 3956.62,-246.5 3571.6,-246.5"/>
+<text text-anchor="middle" x="3603.78" y="-268" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">CBN05</text>
+<polyline fill="none" stroke="black" points="3635.96,-246.5 3635.96,-298.5"/>
+<text text-anchor="middle" x="3766.53" y="-281" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">Pentesting en Infraestructura de Red</text>
+<polyline fill="none" stroke="black" points="3635.96,-272.5 3897.11,-272.5"/>
+<text text-anchor="middle" x="3766.53" y="-255" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">3 créditos</text>
+<polyline fill="none" stroke="black" points="3897.11,-246.5 3897.11,-298.5"/>
+<text text-anchor="middle" x="3913.45" y="-268" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">7°</text>
+<polyline fill="none" stroke="black" points="3929.78,-246.5 3929.78,-298.5"/>
+<text text-anchor="middle" x="3943.2" y="-268" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">D</text>
+</g>
+<!-- CBN04&#45;&gt;CBN05 -->
+<g id="edge34" class="edge">
+<title>CBN04-&gt;CBN05</title>
+<path fill="none" stroke="black" d="M3383.52,-272.5C3440.33,-272.5 3502.72,-272.5 3560.2,-272.5"/>
+<polygon fill="black" stroke="black" points="3570.03,-272.5 3560.03,-277 3566.25,-272.5 3560.03,-272.5 3560.03,-272.5 3560.03,-272.5 3566.25,-272.5 3560.03,-268 3570.03,-272.5"/>
+</g>
+<!-- CBS06 -->
+<g id="node39" class="node">
+<title>CBS06</title>
+<polygon fill="#b2ffff" stroke="black" points="3621.64,-702.5 3621.64,-754.5 3906.58,-754.5 3906.58,-702.5 3621.64,-702.5"/>
+<text text-anchor="middle" x="3653.41" y="-724" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBS06</text>
+<polyline fill="none" stroke="black" points="3685.17,-702.5 3685.17,-754.5"/>
+<text text-anchor="middle" x="3765.7" y="-737" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Inteligencia Artificial II</text>
+<polyline fill="none" stroke="black" points="3685.17,-728.5 3846.23,-728.5"/>
+<text text-anchor="middle" x="3765.7" y="-711" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">4 créditos</text>
+<polyline fill="none" stroke="black" points="3846.23,-702.5 3846.23,-754.5"/>
+<text text-anchor="middle" x="3862.57" y="-724" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">7°</text>
+<polyline fill="none" stroke="black" points="3878.91,-702.5 3878.91,-754.5"/>
+<text text-anchor="middle" x="3892.74" y="-724" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">G</text>
+</g>
+<!-- CBS05&#45;&gt;CBS06 -->
+<g id="edge35" class="edge">
+<title>CBS05-&gt;CBS06</title>
+<path fill="none" stroke="black" d="M3331.44,-664.29C3415.89,-676.85 3523.59,-692.87 3610.28,-705.77"/>
+<polygon fill="black" stroke="black" points="3620.08,-707.23 3609.53,-710.21 3616.34,-706.67 3610.19,-705.75 3610.19,-705.75 3610.19,-705.75 3616.34,-706.67 3610.85,-701.3 3620.08,-707.23"/>
+</g>
+<!-- CBS32 -->
+<g id="node56" class="node">
+<title>CBS32</title>
+<polygon fill="#b2ffff" stroke="#ff1717" stroke-width="2" points="3526.59,-617.5 3526.59,-669.5 4001.63,-669.5 4001.63,-617.5 3526.59,-617.5"/>
+<text text-anchor="middle" x="3558.36" y="-639" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBS32</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3590.12,-617.5 3590.12,-669.5"/>
+<text text-anchor="middle" x="3761.95" y="-652" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Sistemas de Seguridad Reactivos y Deliberativos</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3590.12,-643.5 3933.78,-643.5"/>
+<text text-anchor="middle" x="3761.95" y="-626" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3933.78,-617.5 3933.78,-669.5"/>
+<text text-anchor="middle" x="3954.29" y="-639" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">11°</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="3974.79,-617.5 3974.79,-669.5"/>
+<text text-anchor="middle" x="3988.21" y="-639" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- CBS05&#45;&gt;CBS32 -->
+<g id="edge56" class="edge">
+<title>CBS05-&gt;CBS32</title>
+<path fill="none" stroke="black" d="M3331.44,-643.5C3386.73,-643.5 3451.98,-643.5 3514.78,-643.5"/>
+<polygon fill="black" stroke="black" points="3524.44,-643.5 3514.44,-648 3520.65,-643.5 3514.44,-643.5 3514.44,-643.5 3514.44,-643.5 3520.65,-643.5 3514.44,-639 3524.44,-643.5"/>
+</g>
+<!-- CBN066 -->
+<g id="node43" class="node">
+<title>CBN066</title>
+<polygon fill="#2e7d32" stroke="black" points="4109.63,-246.5 4109.63,-298.5 4583.04,-298.5 4583.04,-246.5 4109.63,-246.5"/>
+<text text-anchor="middle" x="4145.98" y="-268" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">CBN066</text>
+<polyline fill="none" stroke="black" points="4182.32,-246.5 4182.32,-298.5"/>
+<text text-anchor="middle" x="4352.93" y="-281" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">Gestión de Centro de Operaciones de Seguridad</text>
+<polyline fill="none" stroke="black" points="4182.32,-272.5 4523.53,-272.5"/>
+<text text-anchor="middle" x="4352.93" y="-255" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">3 créditos</text>
+<polyline fill="none" stroke="black" points="4523.53,-246.5 4523.53,-298.5"/>
+<text text-anchor="middle" x="4539.87" y="-268" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">8°</text>
+<polyline fill="none" stroke="black" points="4556.2,-246.5 4556.2,-298.5"/>
+<text text-anchor="middle" x="4569.62" y="-268" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">D</text>
+</g>
+<!-- CBN05&#45;&gt;CBN066 -->
+<g id="edge39" class="edge">
+<title>CBN05-&gt;CBN066</title>
+<path fill="none" stroke="black" d="M3957.11,-272.5C4002.26,-272.5 4051.01,-272.5 4098.21,-272.5"/>
+<polygon fill="black" stroke="black" points="4107.99,-272.5 4097.99,-277 4104.21,-272.5 4097.99,-272.5 4097.99,-272.5 4097.99,-272.5 4104.21,-272.5 4097.99,-268 4107.99,-272.5"/>
+</g>
+<!-- CBN05&#45;&gt;CBS07 -->
+<g id="edge42" class="edge">
+<title>CBN05-&gt;CBS07</title>
+<path fill="none" stroke="black" d="M3952.29,-298.95C4028.84,-309.77 4116.37,-322.14 4189.37,-332.46"/>
+<polygon fill="black" stroke="black" points="4198.83,-333.8 4188.3,-336.85 4195.08,-333.27 4188.93,-332.4 4188.93,-332.4 4188.93,-332.4 4195.08,-333.27 4189.56,-327.94 4198.83,-333.8"/>
+</g>
+<!-- CIB30 -->
+<g id="node53" class="node">
+<title>CIB30</title>
+<polygon fill="#b2ffff" stroke="#ff1717" stroke-width="2" points="4114.23,-787.5 4114.23,-839.5 4578.43,-839.5 4578.43,-787.5 4114.23,-787.5"/>
+<text text-anchor="middle" x="4143.08" y="-809" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CIB30</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="4171.92,-787.5 4171.92,-839.5"/>
+<text text-anchor="middle" x="4341.25" y="-822" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Algoritmos Genéticos en Sistemas de Seguridad</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="4171.92,-813.5 4510.58,-813.5"/>
+<text text-anchor="middle" x="4341.25" y="-796" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="4510.58,-787.5 4510.58,-839.5"/>
+<text text-anchor="middle" x="4531.09" y="-809" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">11°</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="4551.6,-787.5 4551.6,-839.5"/>
+<text text-anchor="middle" x="4565.02" y="-809" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- CBS06&#45;&gt;CIB30 -->
+<g id="edge51" class="edge">
+<title>CBS06-&gt;CIB30</title>
+<path fill="none" stroke="black" d="M3907.05,-749.29C3980.33,-760.03 4070.87,-773.29 4150.59,-784.97"/>
+<polygon fill="black" stroke="black" points="4160.05,-786.36 4149.5,-789.36 4156.31,-785.81 4150.16,-784.91 4150.16,-784.91 4150.16,-784.91 4156.31,-785.81 4150.81,-780.46 4160.05,-786.36"/>
+</g>
+<!-- CBS30 -->
+<g id="node54" class="node">
+<title>CBS30</title>
+<polygon fill="#b2ffff" stroke="#ff1717" stroke-width="2" points="4195.53,-705.5 4195.53,-757.5 4497.13,-757.5 4497.13,-705.5 4195.53,-705.5"/>
+<text text-anchor="middle" x="4227.29" y="-727" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBS30</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="4259.06,-705.5 4259.06,-757.5"/>
+<text text-anchor="middle" x="4344.17" y="-740" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Validación Paramétrica</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="4259.06,-731.5 4429.28,-731.5"/>
+<text text-anchor="middle" x="4344.17" y="-714" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="4429.28,-705.5 4429.28,-757.5"/>
+<text text-anchor="middle" x="4449.79" y="-727" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">11°</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="4470.3,-705.5 4470.3,-757.5"/>
+<text text-anchor="middle" x="4483.72" y="-727" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- CBS06&#45;&gt;CBS30 -->
+<g id="edge52" class="edge">
+<title>CBS06-&gt;CBS30</title>
+<path fill="none" stroke="black" d="M3907.05,-729.23C3990.7,-729.67 4096.82,-730.22 4183.68,-730.66"/>
+<polygon fill="black" stroke="black" points="4193.5,-730.71 4183.48,-735.16 4189.72,-730.7 4183.5,-730.66 4183.5,-730.66 4183.5,-730.66 4189.72,-730.7 4183.52,-726.16 4193.5,-730.71"/>
+</g>
+<!-- CBS31 -->
+<g id="node55" class="node">
+<title>CBS31</title>
+<polygon fill="#b2ffff" stroke="#ff1717" stroke-width="2" points="4122.56,-623.5 4122.56,-675.5 4570.1,-675.5 4570.1,-623.5 4122.56,-623.5"/>
+<text text-anchor="middle" x="4154.33" y="-645" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBS31</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="4186.09,-623.5 4186.09,-675.5"/>
+<text text-anchor="middle" x="4344.17" y="-658" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Interfaz Humano-Máquina en Ciberseguridad</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="4186.09,-649.5 4502.25,-649.5"/>
+<text text-anchor="middle" x="4344.17" y="-632" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="4502.25,-623.5 4502.25,-675.5"/>
+<text text-anchor="middle" x="4522.76" y="-645" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">11°</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="4543.27,-623.5 4543.27,-675.5"/>
+<text text-anchor="middle" x="4556.69" y="-645" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- CBS06&#45;&gt;CBS31 -->
+<g id="edge53" class="edge">
+<title>CBS06-&gt;CBS31</title>
+<path fill="none" stroke="black" d="M3907.05,-709.17C3976.02,-699.78 4060.26,-688.31 4136.4,-677.95"/>
+<polygon fill="black" stroke="black" points="4145.88,-676.66 4136.58,-682.46 4142.13,-677.17 4135.97,-678.01 4135.97,-678.01 4135.97,-678.01 4142.13,-677.17 4135.36,-673.55 4145.88,-676.66"/>
+</g>
+<!-- CBH02 -->
+<g id="node42" class="node">
+<title>CBH02</title>
+<polygon fill="#2e7d32" stroke="black" points="4190.09,-82.5 4190.09,-134.5 4502.57,-134.5 4502.57,-82.5 4190.09,-82.5"/>
+<text text-anchor="middle" x="4222.27" y="-104" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">CBH02</text>
+<polyline fill="none" stroke="black" points="4254.45,-82.5 4254.45,-134.5"/>
+<text text-anchor="middle" x="4348.75" y="-117" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">Seguridad Organizacional</text>
+<polyline fill="none" stroke="black" points="4254.45,-108.5 4443.06,-108.5"/>
+<text text-anchor="middle" x="4348.75" y="-91" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">3 créditos</text>
+<polyline fill="none" stroke="black" points="4443.06,-82.5 4443.06,-134.5"/>
+<text text-anchor="middle" x="4459.4" y="-104" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">8°</text>
+<polyline fill="none" stroke="black" points="4475.74,-82.5 4475.74,-134.5"/>
+<text text-anchor="middle" x="4489.15" y="-104" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">D</text>
+</g>
+<!-- CBH01&#45;&gt;CBH02 -->
+<g id="edge38" class="edge">
+<title>CBH01-&gt;CBH02</title>
+<path fill="none" stroke="black" d="M3892.44,-108.5C3976.51,-108.5 4087.54,-108.5 4178.62,-108.5"/>
+<polygon fill="black" stroke="black" points="4188.41,-108.5 4178.41,-113 4184.63,-108.5 4178.41,-108.5 4178.41,-108.5 4178.41,-108.5 4184.63,-108.5 4178.41,-104 4188.41,-108.5"/>
+</g>
+<!-- CBH03 -->
+<g id="node47" class="node">
+<title>CBH03</title>
+<polygon fill="#2e7d32" stroke="black" points="4733.55,-123.5 4733.55,-175.5 5059.37,-175.5 5059.37,-123.5 4733.55,-123.5"/>
+<text text-anchor="middle" x="4765.73" y="-145" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">CBH03</text>
+<polyline fill="none" stroke="black" points="4797.91,-123.5 4797.91,-175.5"/>
+<text text-anchor="middle" x="4898.88" y="-158" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">Auditoria de Ciberseguridad</text>
+<polyline fill="none" stroke="black" points="4797.91,-149.5 4999.86,-149.5"/>
+<text text-anchor="middle" x="4898.88" y="-132" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">3 créditos</text>
+<polyline fill="none" stroke="black" points="4999.86,-123.5 4999.86,-175.5"/>
+<text text-anchor="middle" x="5016.19" y="-145" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">9°</text>
+<polyline fill="none" stroke="black" points="5032.53,-123.5 5032.53,-175.5"/>
+<text text-anchor="middle" x="5045.95" y="-145" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">D</text>
+</g>
+<!-- CBH02&#45;&gt;CBH03 -->
+<g id="edge44" class="edge">
+<title>CBH02-&gt;CBH03</title>
+<path fill="none" stroke="black" d="M4502.94,-120.14C4571.29,-125.25 4651.81,-131.27 4722.07,-136.53"/>
+<polygon fill="black" stroke="black" points="4732.04,-137.28 4721.73,-141.02 4728.27,-136.99 4722.07,-136.53 4722.07,-136.53 4722.07,-136.53 4728.27,-136.99 4722.41,-132.04 4732.04,-137.28"/>
+</g>
+<!-- CBH04 -->
+<g id="node50" class="node">
+<title>CBH04</title>
+<polygon fill="#e6e6fa" stroke="black" points="4725.63,-41.5 4725.63,-93.5 5067.29,-93.5 5067.29,-41.5 4725.63,-41.5"/>
+<text text-anchor="middle" x="4757.81" y="-63" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBH04</text>
+<polyline fill="none" stroke="black" points="4789.99,-41.5 4789.99,-93.5"/>
+<text text-anchor="middle" x="4898.88" y="-76" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Legislación de Ciberseguridad</text>
+<polyline fill="none" stroke="black" points="4789.99,-67.5 5007.78,-67.5"/>
+<text text-anchor="middle" x="4898.88" y="-50" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="black" points="5007.78,-41.5 5007.78,-93.5"/>
+<text text-anchor="middle" x="5024.12" y="-63" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">9°</text>
+<polyline fill="none" stroke="black" points="5040.45,-41.5 5040.45,-93.5"/>
+<text text-anchor="middle" x="5053.87" y="-63" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- CBH02&#45;&gt;CBH04 -->
+<g id="edge48" class="edge">
+<title>CBH02-&gt;CBH04</title>
+<path fill="none" stroke="black" d="M4502.94,-96.86C4568.88,-91.93 4646.16,-86.15 4714.62,-81.03"/>
+<polygon fill="black" stroke="black" points="4724.32,-80.3 4714.68,-85.54 4720.54,-80.58 4714.34,-81.05 4714.34,-81.05 4714.34,-81.05 4720.54,-80.58 4714.01,-76.56 4724.32,-80.3"/>
+</g>
+<!-- CIB45 -->
+<g id="node49" class="node">
+<title>CIB45</title>
+<polygon fill="#e6e6fa" stroke="black" points="4784.83,-246.5 4784.83,-298.5 5008.08,-298.5 5008.08,-246.5 4784.83,-246.5"/>
+<text text-anchor="middle" x="4813.68" y="-268" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CIB45</text>
+<polyline fill="none" stroke="black" points="4842.52,-246.5 4842.52,-298.5"/>
+<text text-anchor="middle" x="4895.96" y="-281" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Plan de Tesis</text>
+<polyline fill="none" stroke="black" points="4842.52,-272.5 4949.4,-272.5"/>
+<text text-anchor="middle" x="4895.96" y="-255" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">4 créditos</text>
+<polyline fill="none" stroke="black" points="4949.4,-246.5 4949.4,-298.5"/>
+<text text-anchor="middle" x="4965.74" y="-268" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">9°</text>
+<polyline fill="none" stroke="black" points="4982.08,-246.5 4982.08,-298.5"/>
+<text text-anchor="middle" x="4995.08" y="-268" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">A</text>
+</g>
+<!-- CBN066&#45;&gt;CIB45 -->
+<g id="edge47" class="edge">
+<title>CBN066-&gt;CIB45</title>
+<path fill="none" stroke="black" d="M4583.37,-272.5C4648.88,-272.5 4717.35,-272.5 4773.4,-272.5"/>
+<polygon fill="black" stroke="black" points="4783.23,-272.5 4773.23,-277 4779.44,-272.5 4773.23,-272.5 4773.23,-272.5 4773.23,-272.5 4779.44,-272.5 4773.23,-268 4783.23,-272.5"/>
+</g>
+<!-- CBG02 -->
+<g id="node48" class="node">
+<title>CBG02</title>
+<polygon fill="#e6e6fa" stroke="black" points="4691.04,-328.5 4691.04,-380.5 5101.88,-380.5 5101.88,-328.5 4691.04,-328.5"/>
+<text text-anchor="middle" x="4723.63" y="-350" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBG02</text>
+<polyline fill="none" stroke="black" points="4756.23,-328.5 4756.23,-380.5"/>
+<text text-anchor="middle" x="4899.3" y="-363" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Gestión de Proyectos de Ciberseguridad</text>
+<polyline fill="none" stroke="black" points="4756.23,-354.5 5042.37,-354.5"/>
+<text text-anchor="middle" x="4899.3" y="-337" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="black" points="5042.37,-328.5 5042.37,-380.5"/>
+<text text-anchor="middle" x="5058.71" y="-350" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">9°</text>
+<polyline fill="none" stroke="black" points="5075.05,-328.5 5075.05,-380.5"/>
+<text text-anchor="middle" x="5088.47" y="-350" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- CBS07&#45;&gt;CBG02 -->
+<g id="edge45" class="edge">
+<title>CBS07-&gt;CBG02</title>
+<path fill="none" stroke="black" d="M4492.78,-354.5C4550.12,-354.5 4617.17,-354.5 4679.93,-354.5"/>
+<polygon fill="black" stroke="black" points="4689.56,-354.5 4679.56,-359 4685.78,-354.5 4679.56,-354.5 4679.56,-354.5 4679.56,-354.5 4685.78,-354.5 4679.56,-350 4689.56,-354.5"/>
+</g>
+<!-- CBS07&#45;&gt;CIB45 -->
+<g id="edge46" class="edge">
+<title>CBS07-&gt;CIB45</title>
+<path fill="none" stroke="black" d="M4492.78,-332.74C4580.35,-319.64 4690.57,-303.15 4773.55,-290.74"/>
+<polygon fill="black" stroke="black" points="4783.36,-289.27 4774.13,-295.2 4779.62,-289.83 4773.47,-290.75 4773.47,-290.75 4773.47,-290.75 4779.62,-289.83 4772.8,-286.3 4783.36,-289.27"/>
+</g>
+<!-- CBN21 -->
+<g id="node51" class="node">
+<title>CBN21</title>
+<polygon fill="#2e7d32" stroke="black" points="5284.93,-123.5 5284.93,-175.5 5566.52,-175.5 5566.52,-123.5 5284.93,-123.5"/>
+<text text-anchor="middle" x="5317.11" y="-145" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">CBN21</text>
+<polyline fill="none" stroke="black" points="5349.28,-123.5 5349.28,-175.5"/>
+<text text-anchor="middle" x="5423.98" y="-158" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">Informática Forense</text>
+<polyline fill="none" stroke="black" points="5349.28,-149.5 5498.67,-149.5"/>
+<text text-anchor="middle" x="5423.98" y="-132" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">3 créditos</text>
+<polyline fill="none" stroke="black" points="5498.67,-123.5 5498.67,-175.5"/>
+<text text-anchor="middle" x="5519.18" y="-145" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">10°</text>
+<polyline fill="none" stroke="black" points="5539.69,-123.5 5539.69,-175.5"/>
+<text text-anchor="middle" x="5553.1" y="-145" font-family="Helvetica,sans-Serif" font-size="15.00" fill="white">D</text>
+</g>
+<!-- CBH03&#45;&gt;CBN21 -->
+<g id="edge49" class="edge">
+<title>CBH03-&gt;CBN21</title>
+<path fill="none" stroke="black" d="M5059.6,-149.5C5127.83,-149.5 5206.77,-149.5 5273.75,-149.5"/>
+<polygon fill="black" stroke="black" points="5283.61,-149.5 5273.61,-154 5279.83,-149.5 5273.61,-149.5 5273.61,-149.5 5273.61,-149.5 5279.83,-149.5 5273.61,-145 5283.61,-149.5"/>
+</g>
+<!-- CBG30 -->
+<g id="node67" class="node">
+<title>CBG30</title>
+<polygon fill="#e6e6fa" stroke="#ff1717" stroke-width="2" points="5209.88,-328.5 5209.88,-380.5 5641.57,-380.5 5641.57,-328.5 5209.88,-328.5"/>
+<text text-anchor="middle" x="5242.48" y="-350" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CBG30</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="5275.07,-328.5 5275.07,-380.5"/>
+<text text-anchor="middle" x="5424.39" y="-363" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Innovación y Emprendimiento Tecnológico</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="5275.07,-354.5 5573.71,-354.5"/>
+<text text-anchor="middle" x="5424.39" y="-337" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">3 créditos</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="5573.71,-328.5 5573.71,-380.5"/>
+<text text-anchor="middle" x="5594.22" y="-350" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">11°</text>
+<polyline fill="none" stroke="#ff1717" stroke-width="2" points="5614.73,-328.5 5614.73,-380.5"/>
+<text text-anchor="middle" x="5628.15" y="-350" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">D</text>
+</g>
+<!-- CBG02&#45;&gt;CBG30 -->
+<g id="edge58" class="edge">
+<title>CBG02-&gt;CBG30</title>
+<path fill="none" stroke="black" d="M5102.07,-354.5C5133.4,-354.5 5165.9,-354.5 5197.69,-354.5"/>
+<polygon fill="black" stroke="black" points="5207.68,-354.5 5197.68,-359 5203.89,-354.5 5197.68,-354.5 5197.68,-354.5 5197.68,-354.5 5203.89,-354.5 5197.68,-350 5207.68,-354.5"/>
+</g>
+<!-- CIB46 -->
+<g id="node52" class="node">
+<title>CIB46</title>
+<polygon fill="#e6e6fa" stroke="black" points="5295.34,-246.5 5295.34,-298.5 5556.11,-298.5 5556.11,-246.5 5295.34,-246.5"/>
+<text text-anchor="middle" x="5324.19" y="-268" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">CIB46</text>
+<polyline fill="none" stroke="black" points="5353.03,-246.5 5353.03,-298.5"/>
+<text text-anchor="middle" x="5421.06" y="-281" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">Proyecto de Tesis</text>
+<polyline fill="none" stroke="black" points="5353.03,-272.5 5489.08,-272.5"/>
+<text text-anchor="middle" x="5421.06" y="-255" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">4 créditos</text>
+<polyline fill="none" stroke="black" points="5489.08,-246.5 5489.08,-298.5"/>
+<text text-anchor="middle" x="5509.59" y="-268" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">10°</text>
+<polyline fill="none" stroke="black" points="5530.1,-246.5 5530.1,-298.5"/>
+<text text-anchor="middle" x="5543.1" y="-268" font-family="Helvetica,sans-Serif" font-size="15.00" fill="#000000">A</text>
+</g>
+<!-- CIB45&#45;&gt;CIB46 -->
+<g id="edge50" class="edge">
+<title>CIB45-&gt;CIB46</title>
+<path fill="none" stroke="black" d="M5008.31,-272.5C5088.55,-272.5 5197.62,-272.5 5284,-272.5"/>
+<polygon fill="black" stroke="black" points="5293.74,-272.5 5283.74,-277 5289.96,-272.5 5283.74,-272.5 5283.74,-272.5 5283.74,-272.5 5289.96,-272.5 5283.74,-268 5293.74,-272.5"/>
+</g>
+</g>
+</svg>
